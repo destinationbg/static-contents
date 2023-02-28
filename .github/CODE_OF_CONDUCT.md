@@ -10,4 +10,4 @@
 
 Случаи на злоупотреба, тормоз или друго изражение на неприемливо поведение могат да бъдат докладвани чрез отваряне на ново issue или свързване с един или повече от [поддържащите проекта](https://github.com/orgs/placesbg/people).
 
-Този кодекс за поведение е адаптиран от [Споразумението на сътрудниците](https://contributor-covenant.org), версия 1.0.0, достъпна на [http://contributor-covenant.org/version/1/0/0/ ](http://contributor-covenant.org/version/1/0/0/)
+Този кодекс за поведение е адаптиран от [Споразумението на сътрудниците](https://contributor-covenant.org), версия 1.0.0, достъпна на [http://contributor-covenant.org/version/1/0/0/](http://contributor-covenant.org/version/1/0/0/)
