@@ -1,0 +1,31 @@
+slug: culture
+locale:
+  bg:
+    title: Култура
+    description: >-
+      Наслади се на оживената културна сцена на България чрез нейните музеи,
+      галерии, библиотеки и театри, които показват художественото творчество и
+      културното наследство на страната.
+  en:
+    title: Culture
+    description: >-
+      Experience Bulgaria's vibrant cultural scene through its museums,
+      galleries, libraries, and theaters, which showcase the country's artistic
+      creativity and cultural heritage.
+subcategories:
+  - slug: museums
+    locale:
+      bg: Музеи
+      en: Museums
+  - slug: galleries
+    locale:
+      bg: Галерии
+      en: Galleries
+  - slug: libraries
+    locale:
+      bg: Библиотеки
+      en: Libraries
+  - slug: theaters
+    locale:
+      bg: Театри
+      en: Theaters
