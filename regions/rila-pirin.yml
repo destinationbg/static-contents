@@ -1,0 +1,119 @@
+slug: rila-pirin
+locale:
+  bg:
+    title: Рило-Пирински район
+    description: >-
+      Рило-Пиринският регион на България е богат на исторически забележителности
+      и туристически атракции, включително 23 общини. Регионът е известен с
+      разнообразния си ландшафт, вариращ от Рилския манастир, който е един от
+      най-големите и известни източноправославни манастири в България, до
+      Националния парк Пирин, който е обект на световното наследство на ЮНЕСКО.
+      Районът също така се гордее с множество термални бани и ски курорти,
+      предлагащи на посетителите набор от преживявания през цялата година. Освен
+      това регионът е пропит с история, с древни крепости и руини, които са
+      запазени и са отворени за изследване.
+  en:
+    title: Rila-Pirin Tourist Region
+    description: >-
+      The Rila-Pirin Tourist Region of Bulgaria is rich in historical landmarks
+      and tourist attractions, including 23 municipalities. The region is known
+      for its diverse landscape, ranging from the Rila Monastery, which is one
+      of the largest and most famous Eastern Orthodox monasteries in Bulgaria,
+      to the Pirin National Park, which is a UNESCO World Heritage Site. The
+      area also boasts numerous thermal baths and ski resorts, offering visitors
+      a range of experiences year-round. Additionally, the region is steeped in
+      history, with ancient fortresses and ruins that have been preserved and
+      are open for exploration.
+municipalities:
+  - slug: bansko
+    locale:
+      bg: Банско
+      en: Bansko
+  - slug: belitsa
+    locale:
+      bg: Белица
+      en: Belitsa
+  - slug: belovo
+    locale:
+      bg: Белово
+      en: Belovo
+  - slug: blagoevgrad
+    locale:
+      bg: Благоевград
+      en: Blagoevgrad
+  - slug: boboshevo
+    locale:
+      bg: Бобошево
+      en: Boboshevo
+  - slug: gotse-delchev
+    locale:
+      bg: Гоце Делчев
+      en: Gotse Delchev
+  - slug: garmen
+    locale:
+      bg: Гърмен
+      en: Garmen
+  - slug: dolna-banya
+    locale:
+      bg: Долна баня
+      en: Dolna Banya
+  - slug: dupnitsa
+    locale:
+      bg: Дупница
+      en: Dupnitsa
+  - slug: kostenets
+    locale:
+      bg: Костенец
+      en: Kostenets
+  - slug: kocherinovo
+    locale:
+      bg: Кочериново
+      en: Kocherinovo
+  - slug: kresna
+    locale:
+      bg: Кресна
+      en: Kresna
+  - slug: petrich
+    locale:
+      bg: Петрич
+      en: Petrich
+  - slug: razlog
+    locale:
+      bg: Разлог
+      en: Razlog
+  - slug: rila
+    locale:
+      bg: Рила
+      en: Rila
+  - slug: samokov
+    locale:
+      bg: Самоков
+      en: Samokov
+  - slug: sandanski
+    locale:
+      bg: Сандански
+      en: Sandanski
+  - slug: sapareva-banya
+    locale:
+      bg: Сапарева баня
+      en: Sapareva Banya
+  - slug: satovcha
+    locale:
+      bg: Сатовча
+      en: Satovcha
+  - slug: simitli
+    locale:
+      bg: Симитли
+      en: Simitli
+  - slug: strumyani
+    locale:
+      bg: Струмяни
+      en: Strumyani
+  - slug: hadzhidimovo
+    locale:
+      bg: Хаджидимово
+      en: Hadzhidimovo
+  - slug: yakoruda
+    locale:
+      bg: Якоруда
+      en: Yakoruda

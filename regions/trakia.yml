@@ -1,0 +1,161 @@
+slug: trakia
+locale:
+  bg:
+    title: Тракийски район
+    description: >-
+      Тракийският туристически район в България се състои от 35 общини и включва
+      няколко исторически забележителности. Някои от забележителните атракции
+      включват минерални бани, пещери и древни градове с римска и османска
+      история. Има и много живописни градове и курорти, предлагащи възможности
+      за отдих и почивка. Регионът е известен със своята природна красота,
+      разнообразно културно наследство и богата история.
+  en:
+    title: Trakia Tourist Region
+    description: >-
+      The Trakia Tourist Region in Bulgaria is made up of 35 municipalities and
+      contains several historic landmarks. Some of the notable attractions
+      include mineral baths, caves, and ancient cities with Roman and Ottoman
+      history. There are also many scenic towns and resorts, offering
+      opportunities for recreation and relaxation. The region is known for its
+      natural beauty, diverse cultural heritage, and rich history.
+municipalities:
+  - slug: bratya-daskalovi
+    locale:
+      bg: Братя Даскалови
+      en: Bratya Daskalovi
+  - slug: brezovo
+    locale:
+      bg: Брезово
+      en: Brezovo
+  - slug: galabovo
+    locale:
+      bg: Гълъбово
+      en: Galabovo
+  - slug: dimitrovgrad
+    locale:
+      bg: Димитровград
+      en: Dimitrovgrad
+  - slug: elhovo
+    locale:
+      bg: Елхово
+      en: Elhovo
+  - slug: kaloyanovo
+    locale:
+      bg: Калояново
+      en: Kaloyanovo
+  - slug: krichim
+    locale:
+      bg: Кричим
+      en: Krichim
+  - slug: lesichovo
+    locale:
+      bg: Лесичово
+      en: Lesichovo
+  - slug: lyubimets
+    locale:
+      bg: Любимец
+      en: Lyubimets
+  - slug: maritsa
+    locale:
+      bg: Марица
+      en: Maritsa
+  - slug: mineralni-bani
+    locale:
+      bg: Минерални бани
+      en: Mineralni Bani
+  - slug: nova-zagora
+    locale:
+      bg: Нова Загора
+      en: Nova Zagora
+  - slug: opan
+    locale:
+      bg: Опан
+      en: Opan
+  - slug: pazardzhik
+    locale:
+      bg: Пазарджик
+      en: Pazardzhik
+  - slug: perushtitsa
+    locale:
+      bg: Перущица
+      en: Perushtitsa
+  - slug: peshtera
+    locale:
+      bg: Пещера
+      en: Peshtera
+  - slug: plovdiv
+    locale:
+      bg: Пловдив
+      en: Plovdiv
+  - slug: parvomay
+    locale:
+      bg: Първомай
+      en: Parvomay
+  - slug: radnevo
+    locale:
+      bg: Раднево
+      en: Radnevo
+  - slug: rakovski
+    locale:
+      bg: Раковски
+      en: Rakovski
+  - slug: sadovo
+    locale:
+      bg: Садово
+      en: Sadovo
+  - slug: svilengrad
+    locale:
+      bg: Свиленград
+      en: Svilengrad
+  - slug: septemvri
+    locale:
+      bg: Септември
+      en: Septemvri
+  - slug: simeonovgrad
+    locale:
+      bg: Симеоновград
+      en: Simeonovgrad
+  - slug: stamboliyski
+    locale:
+      bg: Стамболийски
+      en: Stamboliyski
+  - slug: stambolovo
+    locale:
+      bg: Стамболово
+      en: Stambolovo
+  - slug: stara-zagora
+    locale:
+      bg: Стара Загора
+      en: Stara Zagora
+  - slug: straldzha
+    locale:
+      bg: Стралджа
+      en: Straldzha
+  - slug: syedinenie
+    locale:
+      bg: Съединение
+      en: Syedinenie
+  - slug: topolovgrad
+    locale:
+      bg: Тополовград
+      en: Topolovgrad
+  - slug: tundzha
+    locale:
+      bg: Тунджа
+      en: Tundzha
+  - slug: harmanli
+    locale:
+      bg: Харманли
+      en: Harmanli
+  - slug: haskovo
+    locale:
+      bg: Хасково
+      en: Haskovo
+  - slug: chirpan
+    locale:
+      bg: Чирпан
+      en: Chirpan
+  - slug: yambol
+    locale:
+      bg: Ямбол
+      en: Yambol

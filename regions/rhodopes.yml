@@ -1,0 +1,131 @@
+slug: rhodopes
+locale:
+  bg:
+    title: Родопски район
+    description: >-
+      Родопите в България са известни с богатото си културно-историческо
+      наследство. Районът включва 27 общини и е дом на много интересни
+      забележителности. Някои от тези забележителности са археологически обекти,
+      културни и религиозни паметници и природни забележителности като живописни
+      планини, езера и пещери. Регионът също така може да се похвали с добре
+      запазени традиции и обичаи, като през цялата година се провеждат много
+      местни фестивали и събития.
+  en:
+    title: Rhodopes Tourist Region
+    description: >-
+      The Rhodopes Tourist Region of Bulgaria is known for its rich cultural and
+      historical heritage. The area includes 27 municipalities and is home to
+      many interesting landmarks. Some of these landmarks are archaeological
+      sites, cultural and religious monuments, and natural attractions such as
+      scenic mountains, lakes, and caves. The region also boasts well-preserved
+      traditions and customs, with many local festivals and events being held
+      throughout the year.
+municipalities:
+  - slug: ardino
+    locale:
+      bg: Ардино
+      en: Ardino
+  - slug: asenovgrad
+    locale:
+      bg: Асеновград
+      en: Asenovgrad
+  - slug: banite
+    locale:
+      bg: Баните
+      en: Banite
+  - slug: batak
+    locale:
+      bg: Батак
+      en: Batak
+  - slug: borino
+    locale:
+      bg: Борино
+      en: Borino
+  - slug: bratsigovo
+    locale:
+      bg: Брацигово
+      en: Bratsigovo
+  - slug: velingrad
+    locale:
+      bg: Велинград
+      en: Velingrad
+  - slug: devin
+    locale:
+      bg: Девин
+      en: Devin
+  - slug: dzhebel
+    locale:
+      bg: Джебел
+      en: Dzhebel
+  - slug: dospat
+    locale:
+      bg: Доспат
+      en: Dospat
+  - slug: zlatograd
+    locale:
+      bg: Златоград
+      en: Zlatograd
+  - slug: ivaylovgrad
+    locale:
+      bg: Ивайловград
+      en: Ivaylovgrad
+  - slug: kirkovo
+    locale:
+      bg: Кирково
+      en: Kirkovo
+  - slug: krumovgrad
+    locale:
+      bg: Крумовград
+      en: Krumovgrad
+  - slug: kuklen
+    locale:
+      bg: Куклен
+      en: Kuklen
+  - slug: kardzhali
+    locale:
+      bg: Кърджали
+      en: Kardzhali
+  - slug: laki
+    locale:
+      bg: Лъки
+      en: Laki
+  - slug: madan
+    locale:
+      bg: Мадан
+      en: Madan
+  - slug: madzharovo
+    locale:
+      bg: Маджарово
+      en: Madzharovo
+  - slug: momchilgrad
+    locale:
+      bg: Момчилград
+      en: Momchilgrad
+  - slug: nedelino
+    locale:
+      bg: Неделино
+      en: Nedelino
+  - slug: rakitovo
+    locale:
+      bg: Ракитово
+      en: Rakitovo
+  - slug: rodopi
+    locale:
+      bg: Родопи
+      en: Rodopi
+  - slug: rudozem
+    locale:
+      bg: Рудозем
+      en: Rudozem
+  - slug: smolyan
+    locale:
+      bg: Смолян
+      en: Smolyan
+  - slug: chepelare
+    locale:
+      bg: Чепеларе
+      en: Chepelare
+  - slug: chernoochene
+    locale:
+      bg: Черноочене
+      en: Chernoochene

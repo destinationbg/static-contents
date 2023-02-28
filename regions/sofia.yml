@@ -1,0 +1,119 @@
+slug: sofia
+locale:
+  bg:
+    title: Софийски район
+    description: >-
+      Софийският туристически район в България включва 23 общини и разполага с
+      различни исторически забележителности и атракции. Някои от тях включват
+      средновековни крепости, църкви, паметници и музеи, които демонстрират
+      богатото културно наследство на региона. Град София, столицата на
+      България, също се намира в региона и е популярна туристическа дестинация,
+      известна със своите исторически забележителности като храм-паметник
+      Александър Невски, Националния дворец на културата и планината Витоша.
+      Други популярни дестинации включват живописни планини и езера, термални
+      бани и ски курорти.
+  en:
+    title: Sofia Tourist Region
+    description: >-
+      The Sofia Tourist Region in Bulgaria includes 23 municipalities, and it
+      features various historic landmarks and attractions. Some of these include
+      medieval fortresses, churches, monuments, and museums that showcase the
+      rich cultural heritage of the region. The city of Sofia, the capital of
+      Bulgaria, is also located in the region and is a popular tourist
+      destination known for its historical landmarks, such as the Alexander
+      Nevsky Cathedral, the National Palace of Culture, and the Vitosha
+      Mountain. Other popular destinations include scenic mountains and lakes,
+      thermal baths, and ski resorts.
+municipalities:
+  - slug: bobov-dol
+    locale:
+      bg: Бобов дол
+      en: Bobov Dol
+  - slug: bozhurishte
+    locale:
+      bg: Божурище
+      en: Bozhurishte
+  - slug: botevgrad
+    locale:
+      bg: Ботевград
+      en: Botevgrad
+  - slug: breznik
+    locale:
+      bg: Брезник
+      en: Breznik
+  - slug: godech
+    locale:
+      bg: Годеч
+      en: Godech
+  - slug: gorna-malina
+    locale:
+      bg: Горна Малина
+      en: Gorna Malina
+  - slug: Dragoman
+    locale:
+      bg: Драгоман
+      en: Dragoman
+  - slug: elin-pelin
+    locale:
+      bg: Елин Пелин
+      en: Elin Pelin
+  - slug: etropole
+    locale:
+      bg: Етрополе
+      en: Etropole
+  - slug: zemen
+    locale:
+      bg: Земен
+      en: Zemen
+  - slug: ihtiman
+    locale:
+      bg: Ихтиман
+      en: Ihtiman
+  - slug: kovachevtsi
+    locale:
+      bg: Ковачевци
+      en: Kovachevtsi
+  - slug: kostinbrod
+    locale:
+      bg: Костинброд
+      en: Kostinbrod
+  - slug: kyustendil
+    locale:
+      bg: Кюстендил
+      en: Kyustendil
+  - slug: nevestino
+    locale:
+      bg: Невестино
+      en: Nevestino
+  - slug: pernik
+    locale:
+      bg: Перник
+      en: Pernik
+  - slug: pravets
+    locale:
+      bg: Правец
+      en: Pravets
+  - slug: radomir
+    locale:
+      bg: Радомир
+      en: Radomir
+  - slug: svoge
+    locale:
+      bg: Своге
+      en: Svoge
+  - slug: slivnitsa
+    locale:
+      bg: Сливница
+      en: Slivnitsa
+  - slug: sofia
+    locale:
+      bg: София
+      en: Sofia
+  - slug: treklyano
+    locale:
+      bg: Трекляно
+      en: Treklyano
+  - slug: tran
+    locale:
+      bg: Трън
+      en: Tran
