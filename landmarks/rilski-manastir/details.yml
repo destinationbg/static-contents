@@ -1,15 +1,15 @@
 slug: rilski-manastir
 locale:
   bg:
-    title: Манастир "Свети Иван Рилски"
+    title: Манастир Свети Иван Рилски
     location: до гр. Рила
   en:
-    title: Rila Monastery Saint Ivan of Rila
+    title: Rila Monastery - Saint Ivan of Rila
     location: next to Rila City
 categories:
- - religion
+  - religion
 subcategories:
- - orthodox-monasteries-and-chapels
+  - orthodox-monasteries-and-chapels
 region: rila-pirin
 municipality: rila
 coordinates:
