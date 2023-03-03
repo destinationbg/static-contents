@@ -1,6 +1,6 @@
 <!--
 Моля, прочетете насоките за пускане на Pull Request:
-https://github.com/placesbg/static-contents/blob/main/.github/CONTRIBUTING.md#подаване-на-промените-към-нашето-хранилище
+https://github.com/destinationbg/static-contents/blob/main/.github/CONTRIBUTING.md#подаване-на-промените-към-нашето-хранилище
 -->
 
 <!-- PULL REQUEST TEMPLATE -->

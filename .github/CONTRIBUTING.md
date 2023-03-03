@@ -14,7 +14,7 @@
 
 ## Настройка на локалната среда
 
-Ако за първи път ще редактирате текстове от това хранилище, първо трябва да го [копирате във вашия GitHub профил](https://github.com/placesbg/static-contents/fork) чрез Fork функцията.
+Ако за първи път ще редактирате текстове от това хранилище, първо трябва да го [копирате във вашия GitHub профил](https://github.com/destinationbg/static-contents/fork) чрез Fork функцията.
 
 ## Преди започване на работа по текстовете
 
@@ -82,14 +82,14 @@ altitude: 210 # надморска височина в метри
 
 ## Докладване на проблеми
 
-Винаги използвайте [https://github.com/placesbg/static-contents/issues/new](https://github.com/placesbg/static-contents/issues/new), за да създадете ново issue и да обясните какво не е наред, ако не възнамерявате сами да го оправите.
+Винаги използвайте [https://github.com/destinationbg/static-contents/issues/new](https://github.com/destinationbg/static-contents/issues/new), за да създадете ново issue и да обясните какво не е наред, ако не възнамерявате сами да го оправите.
 
 ---
 
 ## Финансов принос
 
-Като проект, управляван изцяло доброволно от общността, без голяма корпоративна подкрепа зад гърба си, приветстваме финансова помощ чрез [GitHub Sponsors](https://github.com/sponsors/placesbg) и [OpenCollective](https://opencollective.com/placesbg) страниците.
+Като проект, управляван изцяло доброволно от общността, без голяма корпоративна подкрепа зад гърба си, приветстваме финансова помощ чрез [GitHub Sponsors](https://github.com/sponsors/destinationbg) и [OpenCollective](https://opencollective.com/destinationbg) страниците.
 
 Предварително благодарим на всеки, който допринесе финансово за поддръжката и развитието на проекта! В изображението отдолу се съдържат аватарите на всички хора, които вече допринесоха.
 
-<a href="https://opencollective.com/placesbg"><img src="https://opencollective.com/placesbg/contributors.svg?width=890" /></a>
+<a href="https://opencollective.com/destinationbg"><img src="https://opencollective.com/destinationbg/contributors.svg?width=890" /></a>
