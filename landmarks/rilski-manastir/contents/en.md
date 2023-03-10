@@ -1,25 +1,39 @@
-# Summary
+## Rila Monastery "Sveti Ivan Rilski"
 
-Rila Monastery, also known as Saint Ivan of Rila, is a beautiful architectural site located in the western part of Bulgaria in the Kyustendil province. It was founded in the 10th century, and is named after its patron saint, Saint Ivan of Rila, who was a hermit and a spiritual leader in the region during the Middle Ages. The monastery reached its peak during the 14th and 15th centuries, and became a center of learning and culture, with many famous scholars and artists passing through its doors. The most significant changes occurred in the 19th century, when the monastery was rebuilt in the Bulgarian National Revival style, blending elements of medieval and traditional Bulgarian styles. The complex includes the church, the residential buildings, and the defensive walls. The church is the main attraction with its elaborate frescoes and intricate decoration, the frescoes are considered some of the finest examples of medieval Bulgarian art. The monastery is now a UNESCO World Heritage Site, and a popular tourist destination, and it is a true treasure of Bulgarian culture and history.
+The Monastery of Saint John of Rila, also known as Rila Monastery "Sveti Ivan Rilski," is a significant Eastern Orthodox monastery located in the southwestern Rila Mountains of Bulgaria. The monastery is named after its founder, the hermit Ivan of Rila (876 – 946 AD), and is situated in the deep valley of the Rilska River ("Rila River") inside the Rila Monastery Nature Park. It is the largest and most famous Eastern Orthodox monastery in Bulgaria, housing around 60 monks.
 
-# History
+### Historical Significance
 
-Rila Monastery, also known as Saint Ivan of Rila, is a stunning architectural gem located in the western part of Bulgaria in the Kyustendil province. Founded in the 10th century, it is one of the most important cultural and historical landmarks in the country. The monastery is named after its patron saint, Saint Ivan of Rila, who was a hermit and a spiritual leader in the region during the Middle Ages.
+Founded in the 10th century, the Rila Monastery is considered one of Bulgaria's most important cultural, historical, and architectural monuments. It has been supported and respected by Bulgarian rulers throughout history, and almost every tsar of the Second Bulgarian Empire made large donations to the monastery, making it a cultural and spiritual center of Bulgarian national consciousness.
 
-The history of Rila Monastery is closely linked to the life of Saint Ivan of Rila. According to legend, he was born in the early 9th century in a small village in the Rila Mountains. From a young age, he was drawn to a monastic lifestyle and spent many years living as a hermit in the mountains. His wisdom and spiritual teachings attracted many followers, and eventually, a small community of monks formed around him.
+The oldest buildings in the complex date back to the first half of the 14th century, during the reign of Tsar Peter I (927-968). The arrival of the Ottomans in the late 14th century led to numerous raids and the destruction of the monastery in the mid-15th century. It was rebuilt in the late 15th century with the help of donations from the Sultana Mara Branković, the Russian Orthodox Church, and the Rossikon monastery of Mount Athos.
 
-In the 10th century, a monk named Hrelyo decided to build a monastery on the spot where Saint Ivan had lived as a hermit. This marked the beginning of the Rila Monastery we know today. Hrelyo was said to have been guided by Saint Ivan in his dream, where the saint showed him the location of the future monastery.
+During the Bulgarian National Revival (18th-19th century), the monastery was destroyed by fire in 1833 and then reconstructed between 1834 and 1862 with the help of wealthy Bulgarians from across the country, under the famous architect Alexi Rilets.
 
-The Rila Monastery reached its peak during the 14th and 15th centuries under the rule of the famous Bulgarian ruler Ivan Alexander. He granted the monastery with many privileges and donated a significant amount of land, making it one of the wealthiest monasteries in the region. The monastery's prosperity continued into the following centuries, and it became a center of learning and culture, with many famous scholars and artists passing through its doors.
+### Architectural Features
 
-The Rila Monastery has undergone many changes over the centuries, with additions and renovations being made to the original buildings. The most significant changes occurred in the 19th century, when the monastery was rebuilt in the Bulgarian National Revival style, which is characterized by its ornate decoration and use of traditional Bulgarian motifs. The result is a stunning architectural masterpiece that blends elements of medieval and traditional Bulgarian styles.
+The complex occupies an area of 8,800 m² and is rectangular in form, centered on the inner yard (3,200 m²), where the tower and the main church are situated. The main church of the monastery was built in the mid-19th century and has five domes, three altars, and two side chapels. One of the most precious items inside the church is the gold-plated iconostasis, famous for its wood-carving, the creation of which took five years by four handicraftsmen.
 
-The Rila Monastery is a complex of buildings, including the church, the residential buildings, and the defensive walls. The church is the main attraction of the monastery, with its elaborate frescoes and intricate decoration. The frescoes, which date back to the 15th century, are considered some of the finest examples of medieval Bulgarian art and are a testament to the skill and talent of the artists who created them.
+The frescoes in the church are the work of many masters from Bansko, Samokov, and Razlog, including the famous brothers Zahari Zograf and Dimitar Zograf. The church is also home to many valuable icons, dating from the 14th to the 19th century. Porticos in the courtyard have Mamluk influence with the striped painting and the domes, which became more popular in the Ottoman Empire after the conquest of Egypt.
 
-The residential buildings of the monastery are also worth visiting. They include the monks' cells, the refectory, and the kitchen. These buildings are simple and austere, reflecting the monastic lifestyle of the monks.
+The four-story (not counting the basement) residential part of the complex consists of 300 chambers, four chapels, an abbot's room, and other service premises.
 
-The defensive walls of the monastery were built in the 14th century to protect the complex from invaders. The walls are thick and high, and the towers offer a great view of the surrounding landscape.
+### Tourist Attraction
 
-In the 20th century, Rila Monastery was declared a national monument and has been carefully preserved and protected. Today, it is a popular tourist destination and a UNESCO World Heritage Site, attracting visitors from all over the world who come to admire its architectural beauty and rich history.
+The Rila Monastery is a key tourist attraction in Bulgaria, attracting around 900,000 visitors in 2008 alone. It is depicted on the reverse of the 1 lev banknote, issued in 1999. The monastery complex is regarded as one of the foremost masterpieces of Bulgarian National Revival architecture and was declared a national historical monument in 1976. It became a UNESCO World Heritage Site in 1983 and has been entirely subordinate to the Holy Synod of the Bulgarian Orthodox Church since 1991.
 
-Rila Monastery is a true treasure of Bulgarian culture and history. It is a place where one can witness the beauty of medieval art and architecture, and learn about the fascinating history of this region. The monastery is not only a place of religious significance but also a cultural and historical landmark that should be visited by anyone who is interested in the history and culture of Bulgaria.
+### Notable Visitors
+
+Over the years, Rila Monastery has welcomed many notable visitors from around the world, including Pope John Paul II, who visited the monastery during his pilgrimage to Bulgaria in 2002. The monastery also served as a hiding place for Bulgarian revolutionaries during the Ottoman rule.
+
+### Rila Monastery Today
+
+Today, Rila Monastery continues to be an active monastery and a major tourist attraction in Bulgaria. It is open to visitors and offers guided tours of the complex, as well as accommodations for those who wish to spend the night in the monastery. The monastery also operates a museum that showcases its history, art, and architecture.
+
+Every year, on August 18, the monastery celebrates the feast day of Saint Ivan of Rila with a special liturgy and a procession. The monastery also hosts various cultural events throughout the year, including concerts, exhibitions, and lectures.
+
+In recent years, the monastery has faced some challenges related to tourism, including overcrowding and damage to the natural environment. Efforts are being made to address these issues and ensure the sustainable management of the monastery and its surroundings.
+
+### Conclusion
+
+The Rila Monastery is a remarkable cultural and spiritual center that has played an important role in Bulgarian history and national consciousness. Its stunning architecture, valuable art and artifacts, and rich history make it a must-visit destination for anyone interested in Bulgarian culture and Eastern Orthodox Christianity.
