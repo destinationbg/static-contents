@@ -1,6 +1,6 @@
-## Rila Monastery "Sveti Ivan Rilski"
+## The Monastery of Saint John of Rila
 
-The Monastery of Saint John of Rila, also known as Rila Monastery "Sveti Ivan Rilski," is a significant Eastern Orthodox monastery located in the southwestern Rila Mountains of Bulgaria. The monastery is named after its founder, the hermit Ivan of Rila (876 – 946 AD), and is situated in the deep valley of the Rilska River ("Rila River") inside the Rila Monastery Nature Park. It is the largest and most famous Eastern Orthodox monastery in Bulgaria, housing around 60 monks.
+The Monastery of Saint John of Rila, also known as Rila Monastery "Sveti Ivan Rilski," is a significant Eastern Orthodox monastery located in the southwestern Rila Mountains of Bulgaria. The monastery is named after its founder, the hermit Ivan of Rila, and is situated in the deep valley of the Rilska River inside the Rila Monastery Nature Park. It is the largest and most famous Eastern Orthodox monastery in Bulgaria, housing around 60 monks.
 
 ### Historical Significance
 
