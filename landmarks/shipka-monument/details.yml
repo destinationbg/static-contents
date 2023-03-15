@@ -1,0 +1,18 @@
+slug: shipka-monument
+locale:
+  bg:
+    title: Паметник на свободата "Шипка"
+    location: до гр. Шипка
+  en:
+    title: Shipka Monument
+    location: next to Shipka City
+categories:
+  - architecture
+subcategories:
+  - monuments
+region: valley-of-roses
+municipality: kazanlak
+coordinates:
+  latitude: 42.74816
+  longitude: 25.32161
+altitude: 1312
