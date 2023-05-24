@@ -1,0 +1,36 @@
+slug: rila-monastery
+locale:
+  bg:
+    title: Манастир Свети Иван Рилски
+    short_description: >-
+      Рилският манастир е най-големият и известен източноправославен манастир в
+      България и е един от най-важните културно-исторически и архитектурни
+      паметници на страната. Основан е през 10-ти век и е разположен в дълбоката
+      долина на река Рилска в природен парк „Рилски манастир“. Манастирът е дом
+      на много ценни икони, датиращи от 14-ти до 19-ти век, като един от
+      най-ценните предмети е позлатения иконостас, известен със своята
+      дърворезба. През 1976-та година е включен в списъка на ЮНЕСКО за световно
+      наследство.
+  en:
+    title: Rila Monastery - Saint Ivan of Rila
+    short_description: >-
+      The Rila Monastery is the largest and most famous Eastern Orthodox
+      monastery in Bulgaria and is one of the most important cultural-historical
+      and architectural monuments of the country. It was founded in the 10th
+      century and is located in the deep valley of the Rilska River in the Rila
+      Monastery Nature Park. The monastery is home to many valuable icons dating
+      from the 14th to the 19th century, one of the most valuable items being
+      the gilded iconostasis, famous for its wood carving. In 1976, it was
+      included in the UNESCO World Heritage List.
+categories:
+  - religion
+  - orthodox-monasteries-and-chapels
+features:
+  - parking-available
+  - suitable-for-children
+locality: rila
+locality_prefix: true
+coordinates:
+  latitude: 42.13348
+  longitude: 23.34019
+altitude: 1162

@@ -12,6 +12,7 @@ locale:
       Discover Bulgaria's architectural heritage through its ancient fortresses,
       grand houses and palaces, and impressive bridges and aqueducts, each with
       its own unique design and rich history.
+# TODO move subcategories into individual 'category' files and folders
 subcategories:
   - slug: fortresses-and-ruins
     locale:

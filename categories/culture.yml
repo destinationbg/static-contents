@@ -12,6 +12,7 @@ locale:
       Experience Bulgaria's vibrant cultural scene through its museums,
       galleries, libraries, and theaters, which showcase the country's artistic
       creativity and cultural heritage.
+# TODO move subcategories into individual 'category' files and folders
 subcategories:
   - slug: museums
     locale:

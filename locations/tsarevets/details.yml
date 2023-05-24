@@ -1,0 +1,30 @@
+slug: tsarevets
+locale:
+  bg:
+    title: Крепост "Царевец"
+    short_description: >-
+      Царевец е средновековна крепост, намираща се на хълма със същото име в
+      Северна България, в град Велико Търново. Тя е била основната крепост на
+      Второто българско царство и е издържала най-дълго между 1185 и 1393
+      година. Крепостта била дом на царския и патриаршия двор и в момента е
+      популярно място за туристи.
+  en:
+    title: Tsarevets Fortress
+    short_description: >-
+      Tsarevets is a medieval fortress located on the hill of the same name in
+      Northern Bulgaria, in the city of Veliko Tarnovo. It was the main fortress
+      of the Second Bulgarian Kingdom and lasted the longest between 1185 and
+      1393. The fortress was home to the royal and patriarchal courts and is
+      currently a popular tourist destination.
+categories:
+  - architecture
+  - fortresses-and-ruins
+  - historical-sites
+features:
+  - suitable-for-children
+locality: veliko-tarnovo
+locality_prefix: false
+coordinates:
+  latitude: 43.08385
+  longitude: 25.6525
+altitude: 210

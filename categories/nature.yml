@@ -14,6 +14,7 @@ locale:
       untamed wilderness, where stunning mountain ranges, winding trails, and
       serene parks and gardens offer an escape from the city's hustle and
       bustle, providing a natural sanctuary to all those who seek it.
+# TODO move subcategories into individual 'category' files and folders
 subcategories:
   - slug: mountainous-sites
     locale:

@@ -1,0 +1,28 @@
+slug: shipka-monument
+locale:
+  bg:
+    title: Паметник на свободата "Шипка"
+    short_description: >-
+      Паметникът на Шипка, известен като "Паметникът на свободата", е ярък
+      символ на българската независимост и доблест. Той се намира на върха на
+      Шипка в Стара планина и почита паметта на загиналите герои от битката при
+      Шипченския проход по време на Руско-турската война от 1877-1878 г.
+  en:
+    title: Shipka Monument
+    short_description: >-
+      Shipka's monument, known as the "Freedom Monument", is a vivid symbol of
+      Bulgarian independence and valor. It is located on top of Shipka in Stara
+      Planina and honors the memory of the fallen heroes of the Battle of
+      Shipchen Pass during the Russo-Turkish War of 1877-1878.
+categories:
+  - architecture
+  - monuments
+features:
+  - parking-available
+  - suitable-for-children
+locality: kazanlak
+locality_prefix: true
+coordinates:
+  latitude: 42.74816
+  longitude: 25.32161
+altitude: 1312

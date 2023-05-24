@@ -12,6 +12,7 @@ locale:
       Immerse yourself in the beauty of Bulgaria's religious landmarks, which
       include churches, temples, monasteries, mosques, and synagogues, each with
       its own unique architectural style and cultural significance.
+# TODO move subcategories into individual 'category' files and folders
 subcategories:
   - slug: churches
     locale:

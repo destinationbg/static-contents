@@ -1,0 +1,9 @@
+slug: vratsa
+locale:
+  bg:
+    name: Враца
+    description: ...
+  en:
+    name: Vratsa
+    description: ...
+province: vratsa-province
