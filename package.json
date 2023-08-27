@@ -1,0 +1,13 @@
+{
+  "name": "destinationbg-static",
+  "private": true,
+  "author": "Tom Atanasov (Xen)",
+  "version": "1.0.0",
+  "scripts": {
+    "format:check": "prettier --check \"**/*.yml\"",
+    "format:save": "prettier --write \"**/*.yml\""
+  },
+  "devDependencies": {
+    "prettier": "^3.0.2"
+  }
+}
