@@ -23,6 +23,7 @@ categories:
 features:
   - suitable-for-children
 locality: veliko-tarnovo
+locality_type: city
 locality_prefix: false
 coordinates:
   latitude: 43.08385

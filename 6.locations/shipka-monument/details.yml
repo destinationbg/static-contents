@@ -21,6 +21,7 @@ features:
   - parking-available
   - suitable-for-children
 locality: kazanlak
+locality_type: city
 locality_prefix: true
 coordinates:
   latitude: 42.74816
