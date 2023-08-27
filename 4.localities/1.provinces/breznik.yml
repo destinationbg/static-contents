@@ -1,0 +1,9 @@
+slug: breznik
+locale:
+  bg:
+    name: Община Брезник
+    description: '...'
+  en:
+    name: Breznik Province
+    description: '...'
+region: sofia

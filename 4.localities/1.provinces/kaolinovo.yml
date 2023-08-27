@@ -1,0 +1,9 @@
+slug: kaolinovo
+locale:
+  bg:
+    name: Община Каолиново
+    description: '...'
+  en:
+    name: Kaolinovo Province
+    description: '...'
+region: danube

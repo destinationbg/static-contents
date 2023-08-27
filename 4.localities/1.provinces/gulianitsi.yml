@@ -1,0 +1,9 @@
+slug: gulianitsi
+locale:
+  bg:
+    name: Община Гулянци
+    description: '...'
+  en:
+    name: Gulianitsi Province
+    description: '...'
+region: danube

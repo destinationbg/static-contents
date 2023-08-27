@@ -1,0 +1,9 @@
+slug: chernoochene
+locale:
+  bg:
+    name: Община Черноочене
+    description: '...'
+  en:
+    name: Chernoochene Province
+    description: '...'
+region: rhodopes

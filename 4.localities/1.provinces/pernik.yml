@@ -1,0 +1,9 @@
+slug: pernik
+locale:
+  bg:
+    name: Община Перник
+    description: '...'
+  en:
+    name: Pernik Province
+    description: '...'
+region: sofia

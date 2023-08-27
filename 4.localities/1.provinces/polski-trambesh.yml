@@ -1,0 +1,9 @@
+slug: polski-trambesh
+locale:
+  bg:
+    name: Община Полски Тръмбеш
+    description: '...'
+  en:
+    name: Polski Trambesh Province
+    description: '...'
+region: danube

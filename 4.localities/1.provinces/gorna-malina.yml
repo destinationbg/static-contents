@@ -1,0 +1,9 @@
+slug: gorna-malina
+locale:
+  bg:
+    name: Община Горна Малина
+    description: '...'
+  en:
+    name: Gorna Malina Province
+    description: '...'
+region: sofia

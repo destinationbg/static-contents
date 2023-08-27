@@ -1,0 +1,9 @@
+slug: batak
+locale:
+  bg:
+    name: Община Батак
+    description: '...'
+  en:
+    name: Batak Province
+    description: '...'
+region: rhodopes

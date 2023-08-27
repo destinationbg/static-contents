@@ -1,0 +1,9 @@
+slug: knezha
+locale:
+  bg:
+    name: Община Кнежа
+    description: '...'
+  en:
+    name: Knezha Province
+    description: '...'
+region: danube

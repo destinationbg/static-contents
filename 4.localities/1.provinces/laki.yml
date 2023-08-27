@@ -1,0 +1,9 @@
+slug: laki
+locale:
+  bg:
+    name: Община Лъки
+    description: '...'
+  en:
+    name: Laki Province
+    description: '...'
+region: rhodopes

@@ -1,0 +1,9 @@
+slug: shumen
+locale:
+  bg:
+    name: Община Шумен
+    description: '...'
+  en:
+    name: Shumen Province
+    description: '...'
+region: varna-black-sea

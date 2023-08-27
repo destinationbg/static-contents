@@ -1,0 +1,9 @@
+slug: kresna
+locale:
+  bg:
+    name: Община Кресна
+    description: '...'
+  en:
+    name: Kresna Province
+    description: '...'
+region: rila-pirin

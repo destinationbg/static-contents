@@ -1,0 +1,9 @@
+slug: chelopech
+locale:
+  bg:
+    name: Община Челопеч
+    description: '...'
+  en:
+    name: Chelopech Province
+    description: '...'
+region: valley-of-roses

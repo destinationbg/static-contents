@@ -1,0 +1,9 @@
+slug: oryahovo
+locale:
+  bg:
+    name: Община Оряхово
+    description: '...'
+  en:
+    name: Oryahovo Province
+    description: '...'
+region: danube

@@ -1,0 +1,9 @@
+slug: asenovgrad
+locale:
+  bg:
+    name: Община Асеновград
+    description: '...'
+  en:
+    name: Asenovgrad Province
+    description: '...'
+region: rhodopes

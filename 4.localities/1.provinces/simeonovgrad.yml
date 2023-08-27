@@ -1,0 +1,9 @@
+slug: simeonovgrad
+locale:
+  bg:
+    name: Община Симеоновград
+    description: '...'
+  en:
+    name: Simeonovgrad Province
+    description: '...'
+region: trakia

@@ -1,0 +1,9 @@
+slug: vidin
+locale:
+  bg:
+    name: Община Видин
+    description: '...'
+  en:
+    name: Vidin Province
+    description: '...'
+region: danube

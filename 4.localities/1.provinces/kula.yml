@@ -1,0 +1,9 @@
+slug: kula
+locale:
+  bg:
+    name: Община Кула
+    description: '...'
+  en:
+    name: Kula Province
+    description: '...'
+region: danube

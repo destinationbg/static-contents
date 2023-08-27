@@ -1,0 +1,9 @@
+slug: tsenovo
+locale:
+  bg:
+    name: Община Ценово
+    description: '...'
+  en:
+    name: Tsenovo Province
+    description: '...'
+region: danube

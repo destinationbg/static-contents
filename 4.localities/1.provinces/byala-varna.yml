@@ -1,0 +1,9 @@
+slug: byala-varna
+locale:
+  bg:
+    name: Община Бяла (варненско)
+    description: '...'
+  en:
+    name: Byala Province (Varna)
+    description: '...'
+region: varna-black-sea

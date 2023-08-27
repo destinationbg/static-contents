@@ -1,0 +1,9 @@
+slug: bratsigovo
+locale:
+  bg:
+    name: Община Брацигово
+    description: '...'
+  en:
+    name: Bratsigovo Province
+    description: '...'
+region: rhodopes

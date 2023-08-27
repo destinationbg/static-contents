@@ -1,0 +1,9 @@
+slug: gabrovo
+locale:
+  bg:
+    name: Община Габрово
+    description: '...'
+  en:
+    name: Gabrovo Province
+    description: '...'
+region: stara-planina

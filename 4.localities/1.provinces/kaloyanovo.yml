@@ -1,0 +1,9 @@
+slug: kaloyanovo
+locale:
+  bg:
+    name: Община Калояново
+    description: '...'
+  en:
+    name: Kaloyanovo Province
+    description: '...'
+region: trakia

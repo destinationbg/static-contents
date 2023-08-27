@@ -1,0 +1,9 @@
+slug: levski
+locale:
+  bg:
+    name: Община Левски
+    description: '...'
+  en:
+    name: Levski Province
+    description: '...'
+region: danube

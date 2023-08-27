@@ -1,0 +1,9 @@
+slug: ardino
+locale:
+  bg:
+    name: Община Ардино
+    description: '...'
+  en:
+    name: Ardino Province
+    description: '...'
+region: rhodopes

@@ -1,0 +1,9 @@
+slug: roman
+locale:
+  bg:
+    name: Община Роман
+    description: '...'
+  en:
+    name: Roman Province
+    description: '...'
+region: stara-planina

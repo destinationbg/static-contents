@@ -1,0 +1,9 @@
+slug: karlovo
+locale:
+  bg:
+    name: Община Карлово
+    description: '...'
+  en:
+    name: Karlovo Province
+    description: '...'
+region: valley-of-roses

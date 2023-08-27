@@ -1,0 +1,9 @@
+slug: nesebar
+locale:
+  bg:
+    name: Община Несебър
+    description: '...'
+  en:
+    name: Nesebar Province
+    description: '...'
+region: bourgas-black-sea

@@ -1,0 +1,9 @@
+slug: peshtera
+locale:
+  bg:
+    name: Община Пещера
+    description: '...'
+  en:
+    name: Peshtera Province
+    description: '...'
+region: trakia

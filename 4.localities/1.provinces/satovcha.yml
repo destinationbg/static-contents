@@ -1,0 +1,9 @@
+slug: satovcha
+locale:
+  bg:
+    name: Община Сатовча
+    description: '...'
+  en:
+    name: Satovcha Province
+    description: '...'
+region: rila-pirin

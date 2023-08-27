@@ -1,0 +1,9 @@
+slug: garmen
+locale:
+  bg:
+    name: Община Гърмен
+    description: '...'
+  en:
+    name: Garmen Province
+    description: '...'
+region: rila-pirin

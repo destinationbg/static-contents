@@ -1,0 +1,9 @@
+slug: madan
+locale:
+  bg:
+    name: Община Мадан
+    description: '...'
+  en:
+    name: Madan Province
+    description: '...'
+region: rhodopes

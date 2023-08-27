@@ -1,0 +1,9 @@
+slug: cherven-bryag
+locale:
+  bg:
+    name: Община Червен бряг
+    description: '...'
+  en:
+    name: Cherven Bryag Province
+    description: '...'
+region: danube

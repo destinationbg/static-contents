@@ -1,0 +1,9 @@
+slug: haskovo
+locale:
+  bg:
+    name: Община Хасково
+    description: '...'
+  en:
+    name: Haskovo Province
+    description: '...'
+region: trakia

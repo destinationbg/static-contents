@@ -1,0 +1,9 @@
+slug: dragoman
+locale:
+  bg:
+    name: Община Драгоман
+    description: '...'
+  en:
+    name: Dragoman Province
+    description: '...'
+region: sofia

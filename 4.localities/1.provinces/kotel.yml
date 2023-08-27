@@ -1,0 +1,9 @@
+slug: kotel
+locale:
+  bg:
+    name: Община Котел
+    description: '...'
+  en:
+    name: Kotel Province
+    description: '...'
+region: stara-planina

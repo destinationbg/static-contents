@@ -1,0 +1,9 @@
+slug: belogradchik
+locale:
+  bg:
+    name: Община Белоградчик
+    description: '...'
+  en:
+    name: Belogradchik Province
+    description: '...'
+region: danube

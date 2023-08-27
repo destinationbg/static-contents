@@ -1,0 +1,9 @@
+slug: krivodol
+locale:
+  bg:
+    name: Община Криводол
+    description: '...'
+  en:
+    name: Krivodol Province
+    description: '...'
+region: stara-planina

@@ -1,0 +1,9 @@
+slug: montana
+locale:
+  bg:
+    name: Община Монтана
+    description: '...'
+  en:
+    name: Montana Province
+    description: '...'
+region: stara-planina

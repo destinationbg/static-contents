@@ -1,0 +1,9 @@
+slug: razlog
+locale:
+  bg:
+    name: Община Разлог
+    description: '...'
+  en:
+    name: Razlog Province
+    description: '...'
+region: rila-pirin

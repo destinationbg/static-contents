@@ -1,0 +1,9 @@
+slug: hitrino
+locale:
+  bg:
+    name: Община Хитрино
+    description: '...'
+  en:
+    name: Hitrino Province
+    description: '...'
+region: danube

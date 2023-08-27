@@ -1,0 +1,9 @@
+slug: samuil
+locale:
+  bg:
+    name: Община Самуил
+    description: '...'
+  en:
+    name: Samuil Province
+    description: '...'
+region: danube

@@ -1,0 +1,9 @@
+slug: lyubimets
+locale:
+  bg:
+    name: Община Любимец
+    description: '...'
+  en:
+    name: Lyubimets Province
+    description: '...'
+region: trakia

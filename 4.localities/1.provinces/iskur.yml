@@ -1,0 +1,9 @@
+slug: iskur
+locale:
+  bg:
+    name: Община Искър
+    description: '...'
+  en:
+    name: Iskur Province
+    description: '...'
+region: danube

@@ -1,0 +1,9 @@
+slug: sadovo
+locale:
+  bg:
+    name: Община Садово
+    description: '...'
+  en:
+    name: Sadovo Province
+    description: '...'
+region: trakia

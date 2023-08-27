@@ -1,0 +1,9 @@
+slug: tundzha
+locale:
+  bg:
+    name: Община Тунджа
+    description: '...'
+  en:
+    name: Tundzha Province
+    description: '...'
+region: trakia

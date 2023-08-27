@@ -1,0 +1,9 @@
+slug: loznitsa
+locale:
+  bg:
+    name: Община Лозница
+    description: '...'
+  en:
+    name: Loznitsa Province
+    description: '...'
+region: danube

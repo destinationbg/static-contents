@@ -1,0 +1,9 @@
+slug: momchilgrad
+locale:
+  bg:
+    name: Община Момчилград
+    description: '...'
+  en:
+    name: Momchilgrad Province
+    description: '...'
+region: rhodopes

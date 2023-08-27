@@ -1,0 +1,9 @@
+slug: dupnitsa
+locale:
+  bg:
+    name: Община Дупница
+    description: '...'
+  en:
+    name: Dupnitsa Province
+    description: '...'
+region: rila-pirin

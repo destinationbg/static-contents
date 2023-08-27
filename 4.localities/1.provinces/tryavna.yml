@@ -1,0 +1,9 @@
+slug: tryavna
+locale:
+  bg:
+    name: Община Трявна
+    description: '...'
+  en:
+    name: Tryavna Province
+    description: '...'
+region: stara-planina

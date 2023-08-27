@@ -1,0 +1,9 @@
+slug: dimovo
+locale:
+  bg:
+    name: Община Димово
+    description: '...'
+  en:
+    name: Dimovo Province
+    description: '...'
+region: danube

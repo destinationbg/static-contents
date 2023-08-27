@@ -1,0 +1,9 @@
+slug: krichim
+locale:
+  bg:
+    name: Община Кричим
+    description: '...'
+  en:
+    name: Krichim Province
+    description: '...'
+region: trakia

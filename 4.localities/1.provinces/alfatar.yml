@@ -1,0 +1,9 @@
+slug: alfatar
+locale:
+  bg:
+    name: Община Алфатар
+    description: '...'
+  en:
+    name: Alfatar Province
+    description: '...'
+region: danube

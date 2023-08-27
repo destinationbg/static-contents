@@ -1,0 +1,9 @@
+slug: shabla
+locale:
+  bg:
+    name: Община Шабла
+    description: '...'
+  en:
+    name: Shabla Province
+    description: '...'
+region: varna-black-sea

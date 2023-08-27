@@ -1,0 +1,9 @@
+slug: dolni-dabnik
+locale:
+  bg:
+    name: Община Долни Дъбник
+    description: '...'
+  en:
+    name: Dolni Dabnik Province
+    description: '...'
+region: danube

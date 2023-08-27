@@ -1,0 +1,9 @@
+slug: belovo
+locale:
+  bg:
+    name: Община Белово
+    description: '...'
+  en:
+    name: Belovo Province
+    description: '...'
+region: rila-pirin

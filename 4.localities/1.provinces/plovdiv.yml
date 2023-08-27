@@ -1,0 +1,9 @@
+slug: plovdiv
+locale:
+  bg:
+    name: Община Пловдив
+    description: '...'
+  en:
+    name: Plovdiv Province
+    description: '...'
+region: trakia

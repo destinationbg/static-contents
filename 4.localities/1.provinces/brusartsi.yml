@@ -1,0 +1,9 @@
+slug: brusartsi
+locale:
+  bg:
+    name: Община Брусарци
+    description: '...'
+  en:
+    name: Brusartsi Province
+    description: '...'
+region: danube

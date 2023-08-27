@@ -1,0 +1,9 @@
+slug: svishtov
+locale:
+  bg:
+    name: Община Свищов
+    description: '...'
+  en:
+    name: Svishtov Province
+    description: '...'
+region: danube

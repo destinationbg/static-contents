@@ -1,0 +1,9 @@
+slug: valchi-dol
+locale:
+  bg:
+    name: Община Вълчи дол
+    description: '...'
+  en:
+    name: Valchi Dol Province
+    description: '...'
+region: varna-black-sea

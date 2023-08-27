@@ -1,0 +1,9 @@
+slug: primorsko
+locale:
+  bg:
+    name: Община Приморско
+    description: '...'
+  en:
+    name: Primorsko Province
+    description: '...'
+region: bourgas-black-sea

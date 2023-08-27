@@ -1,0 +1,9 @@
+slug: sitovo
+locale:
+  bg:
+    name: Община Ситово
+    description: '...'
+  en:
+    name: Sitovo Province
+    description: '...'
+region: danube

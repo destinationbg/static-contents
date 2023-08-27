@@ -1,0 +1,9 @@
+slug: troyan
+locale:
+  bg:
+    name: Община Троян
+    description: '...'
+  en:
+    name: Troyan Province
+    description: '...'
+region: stara-planina

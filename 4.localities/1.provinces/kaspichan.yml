@@ -1,0 +1,9 @@
+slug: kaspichan
+locale:
+  bg:
+    name: Община Каспичан
+    description: '...'
+  en:
+    name: Kaspichan Province
+    description: '...'
+region: varna-black-sea

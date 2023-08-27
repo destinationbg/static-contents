@@ -1,0 +1,9 @@
+slug: kuklen
+locale:
+  bg:
+    name: Община Куклен
+    description: '...'
+  en:
+    name: Kuklen Province
+    description: '...'
+region: rhodopes

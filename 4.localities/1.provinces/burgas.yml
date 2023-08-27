@@ -1,0 +1,9 @@
+slug: burgas
+locale:
+  bg:
+    name: Община Бургас
+    description: '...'
+  en:
+    name: Burgas Province
+    description: '...'
+region: bourgas-black-sea

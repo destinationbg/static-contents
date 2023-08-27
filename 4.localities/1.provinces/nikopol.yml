@@ -1,0 +1,9 @@
+slug: nikopol
+locale:
+  bg:
+    name: Община Никопол
+    description: '...'
+  en:
+    name: Nikopol Province
+    description: '...'
+region: danube

@@ -1,0 +1,9 @@
+slug: rakovski
+locale:
+  bg:
+    name: Община Раковски
+    description: '...'
+  en:
+    name: Rakovski Province
+    description: '...'
+region: trakia

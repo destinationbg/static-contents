@@ -1,0 +1,9 @@
+slug: dulovo
+locale:
+  bg:
+    name: Община Дулово
+    description: '...'
+  en:
+    name: Dulovo Province
+    description: '...'
+region: danube

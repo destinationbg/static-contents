@@ -1,0 +1,9 @@
+slug: godech
+locale:
+  bg:
+    name: Община Годеч
+    description: '...'
+  en:
+    name: Godech Province
+    description: '...'
+region: sofia

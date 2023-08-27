@@ -1,0 +1,9 @@
+slug: borino
+locale:
+  bg:
+    name: Община Борино
+    description: '...'
+  en:
+    name: Borino Province
+    description: '...'
+region: rhodopes

@@ -1,0 +1,9 @@
+slug: kardzhali
+locale:
+  bg:
+    name: Община Кърджали
+    description: '...'
+  en:
+    name: Kardzhali Province
+    description: '...'
+region: rhodopes

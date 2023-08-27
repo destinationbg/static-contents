@@ -1,0 +1,9 @@
+slug: popovo
+locale:
+  bg:
+    name: Община Попово
+    description: '...'
+  en:
+    name: Popovo Province
+    description: '...'
+region: danube

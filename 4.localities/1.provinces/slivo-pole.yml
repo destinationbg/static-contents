@@ -1,0 +1,9 @@
+slug: slivo-pole
+locale:
+  bg:
+    name: Община Сливо поле
+    description: '...'
+  en:
+    name: Slivo Pole Province
+    description: '...'
+region: danube

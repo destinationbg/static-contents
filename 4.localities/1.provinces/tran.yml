@@ -1,0 +1,9 @@
+slug: tran
+locale:
+  bg:
+    name: Община Трън
+    description: '...'
+  en:
+    name: Tran Province
+    description: '...'
+region: sofia

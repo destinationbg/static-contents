@@ -1,0 +1,9 @@
+slug: topolovgrad
+locale:
+  bg:
+    name: Община Тополовград
+    description: '...'
+  en:
+    name: Topolovgrad Province
+    description: '...'
+region: trakia

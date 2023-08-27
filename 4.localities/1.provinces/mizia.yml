@@ -1,0 +1,9 @@
+slug: mizia
+locale:
+  bg:
+    name: Община Мизия
+    description: '...'
+  en:
+    name: Mizia Province
+    description: '...'
+region: danube

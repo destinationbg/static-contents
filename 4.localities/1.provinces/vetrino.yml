@@ -1,0 +1,9 @@
+slug: vetrino
+locale:
+  bg:
+    name: Община Ветрино
+    description: '...'
+  en:
+    name: Vetrino Province
+    description: '...'
+region: varna-black-sea

@@ -1,0 +1,9 @@
+slug: pordim
+locale:
+  bg:
+    name: Община Пордим
+    description: '...'
+  en:
+    name: Pordim Province
+    description: '...'
+region: danube

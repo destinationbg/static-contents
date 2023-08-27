@@ -1,0 +1,9 @@
+slug: pravets
+locale:
+  bg:
+    name: Община Правец
+    description: '...'
+  en:
+    name: Pravets Province
+    description: '...'
+region: sofia

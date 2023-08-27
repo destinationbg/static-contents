@@ -1,0 +1,9 @@
+slug: silistra
+locale:
+  bg:
+    name: Община Силистра
+    description: '...'
+  en:
+    name: Silistra Province
+    description: '...'
+region: danube

@@ -1,0 +1,9 @@
+slug: kirkovo
+locale:
+  bg:
+    name: Община Кирково
+    description: '...'
+  en:
+    name: Kirkovo Province
+    description: '...'
+region: rhodopes

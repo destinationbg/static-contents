@@ -1,0 +1,9 @@
+slug: makresh
+locale:
+  bg:
+    name: Община Макреш
+    description: '...'
+  en:
+    name: Makresh Province
+    description: '...'
+region: danube

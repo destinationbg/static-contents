@@ -1,0 +1,9 @@
+slug: novo-selo
+locale:
+  bg:
+    name: Община Ново село
+    description: '...'
+  en:
+    name: Novo Selo Province
+    description: '...'
+region: danube

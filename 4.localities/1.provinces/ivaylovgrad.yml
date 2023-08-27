@@ -1,0 +1,9 @@
+slug: ivaylovgrad
+locale:
+  bg:
+    name: Община Ивайловград
+    description: '...'
+  en:
+    name: Ivaylovgrad Province
+    description: '...'
+region: rhodopes

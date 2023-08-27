@@ -1,0 +1,9 @@
+slug: provadia
+locale:
+  bg:
+    name: Община Провадия
+    description: '...'
+  en:
+    name: Provadia Province
+    description: '...'
+region: varna-black-sea

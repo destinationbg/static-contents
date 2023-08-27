@@ -1,0 +1,9 @@
+slug: mezdra
+locale:
+  bg:
+    name: Община Мездра
+    description: '...'
+  en:
+    name: Mezdra Province
+    description: '...'
+region: stara-planina

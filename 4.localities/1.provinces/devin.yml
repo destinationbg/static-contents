@@ -1,0 +1,9 @@
+slug: devin
+locale:
+  bg:
+    name: Община Девин
+    description: '...'
+  en:
+    name: Devin Province
+    description: '...'
+region: rhodopes

@@ -1,0 +1,9 @@
+slug: radnevo
+locale:
+  bg:
+    name: Община Раднево
+    description: '...'
+  en:
+    name: Radnevo Province
+    description: '...'
+region: trakia

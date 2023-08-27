@@ -1,0 +1,9 @@
+slug: slivnitsa
+locale:
+  bg:
+    name: Община Сливница
+    description: '...'
+  en:
+    name: Slivnitsa Province
+    description: '...'
+region: sofia

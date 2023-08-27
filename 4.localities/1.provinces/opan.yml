@@ -1,0 +1,9 @@
+slug: opan
+locale:
+  bg:
+    name: Община Опан
+    description: '...'
+  en:
+    name: Opan Province
+    description: '...'
+region: trakia

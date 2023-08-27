@@ -1,0 +1,9 @@
+slug: pomorie
+locale:
+  bg:
+    name: Община Поморие
+    description: '...'
+  en:
+    name: Pomorie Province
+    description: '...'
+region: bourgas-black-sea

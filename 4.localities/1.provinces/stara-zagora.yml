@@ -1,0 +1,9 @@
+slug: stara-zagora
+locale:
+  bg:
+    name: Община Стара Загора
+    description: '...'
+  en:
+    name: Stara Zagora Province
+    description: '...'
+region: trakia

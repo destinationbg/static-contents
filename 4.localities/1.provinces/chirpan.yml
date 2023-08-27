@@ -1,0 +1,9 @@
+slug: chirpan
+locale:
+  bg:
+    name: Община Чирпан
+    description: '...'
+  en:
+    name: Chirpan Province
+    description: '...'
+region: trakia

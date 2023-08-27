@@ -1,0 +1,9 @@
+slug: kubrat
+locale:
+  bg:
+    name: Община Кубрат
+    description: '...'
+  en:
+    name: Kubrat Province
+    description: '...'
+region: danube

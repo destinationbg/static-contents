@@ -1,0 +1,9 @@
+slug: sozopol
+locale:
+  bg:
+    name: Община Созопол
+    description: '...'
+  en:
+    name: Sozopol Province
+    description: '...'
+region: bourgas-black-sea

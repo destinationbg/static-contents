@@ -1,0 +1,9 @@
+slug: varshets
+locale:
+  bg:
+    name: Община Вършец
+    description: '...'
+  en:
+    name: Varshets Province
+    description: '...'
+region: stara-planina

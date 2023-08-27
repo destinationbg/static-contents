@@ -1,0 +1,9 @@
+slug: bansko
+locale:
+  bg:
+    name: Община Банско
+    description: '...'
+  en:
+    name: Bansko Province
+    description: '...'
+region: rila-pirin

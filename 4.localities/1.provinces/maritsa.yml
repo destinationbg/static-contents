@@ -1,0 +1,9 @@
+slug: maritsa
+locale:
+  bg:
+    name: Община Марица
+    description: '...'
+  en:
+    name: Maritsa Province
+    description: '...'
+region: trakia

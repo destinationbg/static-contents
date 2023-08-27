@@ -1,0 +1,9 @@
+slug: rila
+locale:
+  bg:
+    name: Община Рила
+    description: '...'
+  en:
+    name: Rila Province
+    description: '...'
+region: rila-pirin

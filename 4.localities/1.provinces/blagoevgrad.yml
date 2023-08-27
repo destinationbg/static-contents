@@ -1,0 +1,9 @@
+slug: blagoevgrad
+locale:
+  bg:
+    name: Община Благоевград
+    description: '...'
+  en:
+    name: Blagoevgrad Province
+    description: '...'
+region: rila-pirin

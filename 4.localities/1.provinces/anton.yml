@@ -1,0 +1,9 @@
+slug: anton
+locale:
+  bg:
+    name: Община Антон
+    description: '...'
+  en:
+    name: Anton Province
+    description: '...'
+region: valley-of-roses

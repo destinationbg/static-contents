@@ -1,0 +1,9 @@
+slug: simitli
+locale:
+  bg:
+    name: Община Симитли
+    description: '...'
+  en:
+    name: Simitli Province
+    description: '...'
+region: rila-pirin

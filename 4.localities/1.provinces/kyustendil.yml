@@ -1,0 +1,9 @@
+slug: kyustendil
+locale:
+  bg:
+    name: Община Кюстендил
+    description: '...'
+  en:
+    name: Kyustendil Province
+    description: '...'
+region: sofia

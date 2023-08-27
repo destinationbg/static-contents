@@ -1,0 +1,9 @@
+slug: belitsa
+locale:
+  bg:
+    name: Община Белица
+    description: '...'
+  en:
+    name: Belitsa Province
+    description: '...'
+region: rila-pirin

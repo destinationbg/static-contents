@@ -1,0 +1,9 @@
+slug: borovo
+locale:
+  bg:
+    name: Община Борово
+    description: '...'
+  en:
+    name: Borovo Province
+    description: '...'
+region: danube

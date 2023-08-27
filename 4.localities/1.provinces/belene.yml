@@ -1,0 +1,9 @@
+slug: belene
+locale:
+  bg:
+    name: Община Белене
+    description: '...'
+  en:
+    name: Belene Province
+    description: '...'
+region: danube

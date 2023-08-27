@@ -1,0 +1,9 @@
+slug: tervel
+locale:
+  bg:
+    name: Община Тервел
+    description: '...'
+  en:
+    name: Tervel Province
+    description: '...'
+region: varna-black-sea

@@ -1,0 +1,9 @@
+slug: kavarna
+locale:
+  bg:
+    name: Община Каварна
+    description: '...'
+  en:
+    name: Kavarna Province
+    description: '...'
+region: varna-black-sea

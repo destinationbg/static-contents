@@ -1,0 +1,9 @@
+slug: nedelino
+locale:
+  bg:
+    name: Община Неделино
+    description: '...'
+  en:
+    name: Nedelino Province
+    description: '...'
+region: rhodopes

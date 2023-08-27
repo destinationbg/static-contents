@@ -1,0 +1,9 @@
+slug: pavlikeni
+locale:
+  bg:
+    name: Община Павликени
+    description: '...'
+  en:
+    name: Pavlikeni Province
+    description: '...'
+region: danube

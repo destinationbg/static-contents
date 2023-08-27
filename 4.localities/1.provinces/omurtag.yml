@@ -1,0 +1,9 @@
+slug: omurtag
+locale:
+  bg:
+    name: Община Омуртаг
+    description: '...'
+  en:
+    name: Omurtag Province
+    description: '...'
+region: stara-planina

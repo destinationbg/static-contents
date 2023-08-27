@@ -1,0 +1,9 @@
+slug: yakoruda
+locale:
+  bg:
+    name: Община Якоруда
+    description: '...'
+  en:
+    name: Yakoruda Province
+    description: '...'
+region: rila-pirin

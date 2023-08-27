@@ -1,0 +1,9 @@
+slug: opaka
+locale:
+  bg:
+    name: Община Опака
+    description: '...'
+  en:
+    name: Opaka Province
+    description: '...'
+region: danube

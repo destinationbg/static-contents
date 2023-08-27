@@ -1,0 +1,9 @@
+slug: teteven
+locale:
+  bg:
+    name: Община Тетевен
+    description: '...'
+  en:
+    name: Teteven Province
+    description: '...'
+region: stara-planina

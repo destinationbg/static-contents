@@ -1,0 +1,9 @@
+slug: bobov-dol
+locale:
+  bg:
+    name: Община Бобов дол
+    description: '...'
+  en:
+    name: Bobov Dol Province
+    description: '...'
+region: sofia

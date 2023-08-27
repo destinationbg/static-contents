@@ -1,0 +1,9 @@
+slug: krumovgrad
+locale:
+  bg:
+    name: Община Крумовград
+    description: '...'
+  en:
+    name: Krumovgrad Province
+    description: '...'
+region: rhodopes

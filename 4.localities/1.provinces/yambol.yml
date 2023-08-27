@@ -1,0 +1,9 @@
+slug: yambol
+locale:
+  bg:
+    name: Община Ямбол
+    description: '...'
+  en:
+    name: Yambol Province
+    description: '...'
+region: trakia

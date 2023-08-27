@@ -1,0 +1,9 @@
+slug: karnobat
+locale:
+  bg:
+    name: Община Карнобат
+    description: '...'
+  en:
+    name: Karnobat Province
+    description: '...'
+region: bourgas-black-sea

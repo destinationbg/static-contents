@@ -1,0 +1,9 @@
+slug: lukovit
+locale:
+  bg:
+    name: Община Луковит
+    description: '...'
+  en:
+    name: Lukovit Province
+    description: '...'
+region: stara-planina

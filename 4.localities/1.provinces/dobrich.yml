@@ -1,0 +1,9 @@
+slug: dobrich
+locale:
+  bg:
+    name: Община Добрич
+    description: '...'
+  en:
+    name: Dobrich Province
+    description: '...'
+region: varna-black-sea

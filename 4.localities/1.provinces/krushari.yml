@@ -1,0 +1,9 @@
+slug: krushari
+locale:
+  bg:
+    name: Община Крушари
+    description: '...'
+  en:
+    name: Krushari Province
+    description: '...'
+region: varna-black-sea

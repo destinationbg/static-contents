@@ -1,0 +1,9 @@
+slug: ruen
+locale:
+  bg:
+    name: Община Руен
+    description: '...'
+  en:
+    name: Ruen Province
+    description: '...'
+region: bourgas-black-sea

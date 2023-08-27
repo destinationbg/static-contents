@@ -1,0 +1,9 @@
+slug: ivanovo
+locale:
+  bg:
+    name: Община Иваново
+    description: '...'
+  en:
+    name: Ivanovo Province
+    description: '...'
+region: danube

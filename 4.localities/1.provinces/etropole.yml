@@ -1,0 +1,9 @@
+slug: etropole
+locale:
+  bg:
+    name: Община Етрополе
+    description: '...'
+  en:
+    name: Etropole Province
+    description: '...'
+region: sofia

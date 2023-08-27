@@ -1,0 +1,9 @@
+slug: zavet
+locale:
+  bg:
+    name: Община Завет
+    description: '...'
+  en:
+    name: Zavet Province
+    description: '...'
+region: danube

@@ -1,0 +1,9 @@
+slug: ihtiman
+locale:
+  bg:
+    name: Община Ихтиман
+    description: '...'
+  en:
+    name: Ihtiman Province
+    description: '...'
+region: sofia

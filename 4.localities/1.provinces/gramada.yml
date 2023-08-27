@@ -1,0 +1,9 @@
+slug: gramada
+locale:
+  bg:
+    name: Община Грамада
+    description: '...'
+  en:
+    name: Gramada Province
+    description: '...'
+region: danube

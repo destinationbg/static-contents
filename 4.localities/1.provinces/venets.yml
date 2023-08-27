@@ -1,0 +1,9 @@
+slug: venets
+locale:
+  bg:
+    name: Община Венец
+    description: '...'
+  en:
+    name: Venets Province
+    description: '...'
+region: danube

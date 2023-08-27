@@ -1,0 +1,9 @@
+slug: zemen
+locale:
+  bg:
+    name: Община Земен
+    description: '...'
+  en:
+    name: Zemen Province
+    description: '...'
+region: sofia

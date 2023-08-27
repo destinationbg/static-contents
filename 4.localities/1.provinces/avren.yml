@@ -1,0 +1,9 @@
+slug: avren
+locale:
+  bg:
+    name: Община Аврен
+    description: '...'
+  en:
+    name: Avren Province
+    description: '...'
+region: varna-black-sea

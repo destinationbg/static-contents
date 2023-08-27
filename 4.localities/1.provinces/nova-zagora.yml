@@ -1,0 +1,9 @@
+slug: nova-zagora
+locale:
+  bg:
+    name: Община Нова Загора
+    description: '...'
+  en:
+    name: Nova Zagora Province
+    description: '...'
+region: trakia

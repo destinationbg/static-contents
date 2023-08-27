@@ -1,0 +1,9 @@
+slug: vetovo
+locale:
+  bg:
+    name: Община Ветово
+    description: '...'
+  en:
+    name: Vetovo Province
+    description: '...'
+region: danube

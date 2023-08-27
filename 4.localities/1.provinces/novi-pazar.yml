@@ -1,0 +1,9 @@
+slug: novi-pazar
+locale:
+  bg:
+    name: Община Нови пазар
+    description: '...'
+  en:
+    name: Novi Pazar Province
+    description: '...'
+region: varna-black-sea

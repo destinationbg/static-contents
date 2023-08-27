@@ -1,0 +1,9 @@
+slug: byala-slatina
+locale:
+  bg:
+    name: Община Бяла Слатина
+    description: '...'
+  en:
+    name: Byala Slatina Province
+    description: '...'
+region: danube

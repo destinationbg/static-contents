@@ -1,0 +1,9 @@
+slug: stamboliyski
+locale:
+  bg:
+    name: Община Стамболийски
+    description: '...'
+  en:
+    name: Stamboliyski Province
+    description: '...'
+region: trakia

@@ -1,0 +1,9 @@
+slug: rakitovo
+locale:
+  bg:
+    name: Община Ракитово
+    description: '...'
+  en:
+    name: Rakitovo Province
+    description: '...'
+region: rhodopes

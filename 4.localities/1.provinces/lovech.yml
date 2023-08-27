@@ -1,0 +1,9 @@
+slug: lovech
+locale:
+  bg:
+    name: Община Ловеч
+    description: '...'
+  en:
+    name: Lovech Province
+    description: '...'
+region: stara-planina

@@ -1,0 +1,9 @@
+slug: elhovo
+locale:
+  bg:
+    name: Община Елхово
+    description: '...'
+  en:
+    name: Elhovo Province
+    description: '...'
+region: trakia

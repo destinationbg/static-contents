@@ -1,0 +1,9 @@
+slug: sliven
+locale:
+  bg:
+    name: Община Сливен
+    description: '...'
+  en:
+    name: Sliven Province
+    description: '...'
+region: valley-of-roses

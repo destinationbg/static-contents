@@ -1,0 +1,9 @@
+slug: kozloduy
+locale:
+  bg:
+    name: Община Козлодуй
+    description: '...'
+  en:
+    name: Kozloduy Province
+    description: '...'
+region: danube

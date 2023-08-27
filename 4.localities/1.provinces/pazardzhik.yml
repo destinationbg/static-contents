@@ -1,0 +1,9 @@
+slug: pazardzhik
+locale:
+  bg:
+    name: Община Пазарджик
+    description: '...'
+  en:
+    name: Pazardzhik Province
+    description: '...'
+region: trakia

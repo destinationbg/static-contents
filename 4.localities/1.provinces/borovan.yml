@@ -1,0 +1,9 @@
+slug: borovan
+locale:
+  bg:
+    name: Община Борован
+    description: '...'
+  en:
+    name: Borovan Province
+    description: '...'
+region: danube

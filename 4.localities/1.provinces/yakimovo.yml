@@ -1,0 +1,9 @@
+slug: yakimovo
+locale:
+  bg:
+    name: Община Якимово
+    description: '...'
+  en:
+    name: Yakimovo Province
+    description: '...'
+region: danube

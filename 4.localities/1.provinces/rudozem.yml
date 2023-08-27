@@ -1,0 +1,9 @@
+slug: rudozem
+locale:
+  bg:
+    name: Община Рудозем
+    description: '...'
+  en:
+    name: Rudozem Province
+    description: '...'
+region: rhodopes

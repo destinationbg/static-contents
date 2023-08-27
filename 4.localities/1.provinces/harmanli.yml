@@ -1,0 +1,9 @@
+slug: harmanli
+locale:
+  bg:
+    name: Община Харманли
+    description: '...'
+  en:
+    name: Harmanli Province
+    description: '...'
+region: trakia

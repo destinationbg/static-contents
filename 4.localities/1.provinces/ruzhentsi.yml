@@ -1,0 +1,9 @@
+slug: ruzhentsi
+locale:
+  bg:
+    name: Община Ружинци
+    description: '...'
+  en:
+    name: Ruzhentsi Province
+    description: '...'
+region: danube

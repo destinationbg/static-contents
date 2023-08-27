@@ -1,0 +1,9 @@
+slug: kameno
+locale:
+  bg:
+    name: Община Камено
+    description: '...'
+  en:
+    name: Kameno Province
+    description: '...'
+region: bourgas-black-sea

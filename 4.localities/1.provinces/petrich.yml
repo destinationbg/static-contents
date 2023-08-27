@@ -1,0 +1,9 @@
+slug: petrich
+locale:
+  bg:
+    name: Община Петрич
+    description: '...'
+  en:
+    name: Petrich Province
+    description: '...'
+region: rila-pirin

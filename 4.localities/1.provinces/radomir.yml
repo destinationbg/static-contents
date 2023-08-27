@@ -1,0 +1,9 @@
+slug: radomir
+locale:
+  bg:
+    name: Община Радомир
+    description: '...'
+  en:
+    name: Radomir Province
+    description: '...'
+region: sofia

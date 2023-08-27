@@ -1,0 +1,9 @@
+slug: gurkovo
+locale:
+  bg:
+    name: Община Гурково
+    description: '...'
+  en:
+    name: Gurkovo Province
+    description: '...'
+region: valley-of-roses

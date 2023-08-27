@@ -1,0 +1,9 @@
+slug: rodopi
+locale:
+  bg:
+    name: Община Родопи
+    description: '...'
+  en:
+    name: Rodopi Province
+    description: '...'
+region: rhodopes

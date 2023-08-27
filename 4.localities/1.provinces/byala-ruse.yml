@@ -1,0 +1,9 @@
+slug: byala-ruse
+locale:
+  bg:
+    name: Община Бяла (русенско)
+    description: '...'
+  en:
+    name: Byala Province (Ruse)
+    description: '...'
+region: danube

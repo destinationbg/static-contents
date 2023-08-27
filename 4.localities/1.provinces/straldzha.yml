@@ -1,0 +1,9 @@
+slug: straldzha
+locale:
+  bg:
+    name: Община Стралджа
+    description: '...'
+  en:
+    name: Straldzha Province
+    description: '...'
+region: trakia

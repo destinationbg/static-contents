@@ -1,0 +1,9 @@
+slug: chavdar
+locale:
+  bg:
+    name: Община Чавдар
+    description: '...'
+  en:
+    name: Chavdar Province
+    description: '...'
+region: valley-of-roses

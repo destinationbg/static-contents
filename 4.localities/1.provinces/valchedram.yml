@@ -1,0 +1,9 @@
+slug: valchedram
+locale:
+  bg:
+    name: Община Вълчедръм
+    description: '...'
+  en:
+    name: Valchedram Province
+    description: '...'
+region: danube

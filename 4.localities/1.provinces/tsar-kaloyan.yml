@@ -1,0 +1,9 @@
+slug: tsar-kaloyan
+locale:
+  bg:
+    name: Община Цар Калоян
+    description: '...'
+  en:
+    name: Tsar Kaloyan Province
+    description: '...'
+region: danube

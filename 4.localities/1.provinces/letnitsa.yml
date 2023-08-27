@@ -1,0 +1,9 @@
+slug: letnitsa
+locale:
+  bg:
+    name: Община Летница
+    description: '...'
+  en:
+    name: Letnitsa Province
+    description: '...'
+region: danube

@@ -1,0 +1,9 @@
+slug: lom
+locale:
+  bg:
+    name: Община Лом
+    description: '...'
+  en:
+    name: Lom Province
+    description: '...'
+region: danube

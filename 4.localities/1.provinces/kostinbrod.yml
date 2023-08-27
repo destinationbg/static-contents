@@ -1,0 +1,9 @@
+slug: kostinbrod
+locale:
+  bg:
+    name: Община Костинброд
+    description: '...'
+  en:
+    name: Kostinbrod Province
+    description: '...'
+region: sofia

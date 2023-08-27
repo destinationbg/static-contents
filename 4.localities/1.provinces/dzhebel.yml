@@ -1,0 +1,9 @@
+slug: dzhebel
+locale:
+  bg:
+    name: Община Джебел
+    description: '...'
+  en:
+    name: Dzhebel Province
+    description: '...'
+region: rhodopes

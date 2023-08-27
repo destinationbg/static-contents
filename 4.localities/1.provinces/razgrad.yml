@@ -1,0 +1,9 @@
+slug: razgrad
+locale:
+  bg:
+    name: Община Разград
+    description: '...'
+  en:
+    name: Razgrad Province
+    description: '...'
+region: danube

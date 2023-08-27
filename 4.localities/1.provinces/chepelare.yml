@@ -1,0 +1,9 @@
+slug: chepelare
+locale:
+  bg:
+    name: Община Чепеларе
+    description: '...'
+  en:
+    name: Chepelare Province
+    description: '...'
+region: rhodopes

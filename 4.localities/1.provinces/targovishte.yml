@@ -1,0 +1,9 @@
+slug: targovishte
+locale:
+  bg:
+    name: Община Търговище
+    description: '...'
+  en:
+    name: Targovishte Province
+    description: '...'
+region: danube
