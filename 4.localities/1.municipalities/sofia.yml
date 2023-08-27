@@ -4,6 +4,6 @@ locale:
     name: Община София
     description: '...'
   en:
-    name: Sofia Province
+    name: Sofia Municipality
     description: '...'
 region: sofia
