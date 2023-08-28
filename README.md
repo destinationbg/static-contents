@@ -29,12 +29,14 @@
 1. **Маркетинг и реклама** - използвайте канал `#marketing` в Discord
 1. **Друго?** - свържете се с нас чрез нашата [контактна форма в сайта](https://destination.bg/contact) и ни кажете с какво друго искате да ни помогнете или ни пишете директно в канал `#general` в Discord
 
+## Кой вече допринесе?
+
+<a href="https://github.com/destinationbg/frontend-nuxt/graphs/contributors"><img src="https://opencollective.com/destinationbg/contributors.svg?width=890" /></a>
+
 ---
 
 ## Финансов принос
 
 Като проект, управляван изцяло доброволно от общността, без голяма корпоративна подкрепа зад гърба си, приветстваме финансова помощ чрез [GitHub Sponsors](https://github.com/sponsors/destinationbg) и [OpenCollective](https://opencollective.com/destinationbg) страниците.
 
-Предварително благодарим на всеки, който допринесе финансово за поддръжката и развитието на проекта! В изображението отдолу се съдържат аватарите на всички хора, които вече допринесоха.
-
-<a href="https://opencollective.com/destinationbg"><img src="https://opencollective.com/destinationbg/contributors.svg?width=890" /></a>
+Предварително благодарим на всеки, който допринесе финансово за поддръжката и развитието на проекта!
