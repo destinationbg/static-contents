@@ -1,0 +1,11 @@
+slug: slivnitsa
+ekatte: 67372
+code: SFO45
+locale:
+  bg:
+    name: Община Сливница
+    description: '...'
+  en:
+    name: Slivnitsa Municipality
+    description: '...'
+region: sofia

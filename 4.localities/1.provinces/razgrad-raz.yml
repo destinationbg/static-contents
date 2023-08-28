@@ -1,0 +1,10 @@
+slug: razgrad
+ekatte: 61710
+code: RAZ
+locale:
+  bg:
+    name: Област Разград
+    description: '...'
+  en:
+    name: Razgrad Province
+    description: '...'

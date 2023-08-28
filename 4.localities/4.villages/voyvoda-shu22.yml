@@ -1,0 +1,10 @@
+slug: voyvoda
+ekatte: 11819
+code: SHU22
+locale:
+  bg:
+    name: Село Войвода
+    description: '...'
+  en:
+    name: Voyvoda Village
+    description: '...'

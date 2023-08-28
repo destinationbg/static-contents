@@ -1,0 +1,10 @@
+slug: varovnik
+ekatte: 10166
+code: BGS06
+locale:
+  bg:
+    name: Село Варовник
+    description: '...'
+  en:
+    name: Varovnik Village
+    description: '...'

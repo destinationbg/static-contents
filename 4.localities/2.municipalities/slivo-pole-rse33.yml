@@ -1,0 +1,11 @@
+slug: slivo-pole
+ekatte: 67444
+code: RSE33
+locale:
+  bg:
+    name: Община Сливо поле
+    description: '...'
+  en:
+    name: Slivo pole Municipality
+    description: '...'
+region: danube

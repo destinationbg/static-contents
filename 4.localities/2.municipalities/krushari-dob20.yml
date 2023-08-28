@@ -1,0 +1,11 @@
+slug: krushari
+ekatte: 40097
+code: DOB20
+locale:
+  bg:
+    name: Община Крушари
+    description: '...'
+  en:
+    name: Krushari Municipality
+    description: '...'
+region: varna-black-sea

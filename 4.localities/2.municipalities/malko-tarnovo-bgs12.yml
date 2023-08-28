@@ -1,0 +1,11 @@
+slug: malko-tarnovo
+ekatte: 46663
+code: BGS12
+locale:
+  bg:
+    name: Община Малко Търново
+    description: '...'
+  en:
+    name: Malko Tarnovo Municipality
+    description: '...'
+region: bourgas-black-sea

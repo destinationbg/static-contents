@@ -1,9 +1,0 @@
-slug: varna
-locale:
-  bg:
-    name: Община Варна
-    description: '...'
-  en:
-    name: Varna Municipality
-    description: '...'
-region: varna-black-sea

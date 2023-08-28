@@ -1,0 +1,11 @@
+slug: kardzhali
+ekatte: 40909
+code: KRZ16
+locale:
+  bg:
+    name: Община Кърджали
+    description: '...'
+  en:
+    name: Kardzhali Municipality
+    description: '...'
+region: rhodopes

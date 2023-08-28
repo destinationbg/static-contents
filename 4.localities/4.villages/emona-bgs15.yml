@@ -1,0 +1,10 @@
+slug: emona
+ekatte: 27454
+code: BGS15
+locale:
+  bg:
+    name: Село Емона
+    description: '...'
+  en:
+    name: Emona Village
+    description: '...'

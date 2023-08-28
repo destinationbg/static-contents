@@ -1,0 +1,11 @@
+slug: sitovo
+ekatte: 66665
+code: SLS32
+locale:
+  bg:
+    name: Община Ситово
+    description: '...'
+  en:
+    name: Sitovo Municipality
+    description: '...'
+region: danube

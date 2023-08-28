@@ -1,0 +1,11 @@
+slug: nesebar
+ekatte: 51500
+code: BGS15
+locale:
+  bg:
+    name: Община Несебър
+    description: '...'
+  en:
+    name: Nesebar Municipality
+    description: '...'
+region: bourgas-black-sea

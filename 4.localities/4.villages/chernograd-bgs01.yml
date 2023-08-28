@@ -1,0 +1,10 @@
+slug: chernograd
+ekatte: 81102
+code: BGS01
+locale:
+  bg:
+    name: Село Черноград
+    description: '...'
+  en:
+    name: Chernograd Village
+    description: '...'

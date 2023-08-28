@@ -1,0 +1,10 @@
+slug: kotel
+ekatte: 39030
+code: SLV11
+locale:
+  bg:
+    name: Град Котел
+    description: '...'
+  en:
+    name: Kotel City
+    description: '...'

@@ -1,0 +1,11 @@
+slug: bolyarovo
+ekatte: 05284
+code: JAM03
+locale:
+  bg:
+    name: Община Болярово
+    description: '...'
+  en:
+    name: Bolyarovo Municipality
+    description: '...'
+region: bourgas-black-sea

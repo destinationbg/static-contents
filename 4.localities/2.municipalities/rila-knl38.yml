@@ -1,0 +1,11 @@
+slug: rila
+ekatte: 62671
+code: KNL38
+locale:
+  bg:
+    name: Община Рила
+    description: '...'
+  en:
+    name: Rila Municipality
+    description: '...'
+region: rila-pirin

@@ -1,0 +1,10 @@
+slug: kitino
+ekatte: 37040
+code: TGV02
+locale:
+  bg:
+    name: Село Китино
+    description: '...'
+  en:
+    name: Kitino Village
+    description: '...'

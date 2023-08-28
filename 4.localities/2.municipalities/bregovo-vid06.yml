@@ -1,0 +1,11 @@
+slug: bregovo
+ekatte: 06224
+code: VID06
+locale:
+  bg:
+    name: Община Брегово
+    description: '...'
+  en:
+    name: Bregovo Municipality
+    description: '...'
+region: danube

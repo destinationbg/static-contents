@@ -1,0 +1,11 @@
+slug: teteven
+ekatte: 72343
+code: LOV33
+locale:
+  bg:
+    name: Община Тетевен
+    description: '...'
+  en:
+    name: Teteven Municipality
+    description: '...'
+region: stara-planina

@@ -1,0 +1,11 @@
+slug: nova-zagora
+ekatte: 51809
+code: SLV16
+locale:
+  bg:
+    name: Община Нова Загора
+    description: '...'
+  en:
+    name: Nova Zagora Municipality
+    description: '...'
+region: trakia

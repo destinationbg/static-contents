@@ -1,0 +1,11 @@
+slug: tran
+ekatte: 73273
+code: PER51
+locale:
+  bg:
+    name: Община Трън
+    description: '...'
+  en:
+    name: Tran Municipality
+    description: '...'
+region: sofia

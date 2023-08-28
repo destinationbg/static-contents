@@ -1,0 +1,10 @@
+slug: balgarovo
+ekatte: 07332
+code: BGS04
+locale:
+  bg:
+    name: Град Българово
+    description: '...'
+  en:
+    name: Balgarovo City
+    description: '...'

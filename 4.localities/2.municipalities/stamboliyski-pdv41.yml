@@ -1,0 +1,11 @@
+slug: stamboliyski
+ekatte: 51980
+code: PDV41
+locale:
+  bg:
+    name: Община Стамболийски
+    description: '...'
+  en:
+    name: Stamboliyski Municipality
+    description: '...'
+region: trakia

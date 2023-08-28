@@ -1,0 +1,10 @@
+slug: zavet
+ekatte: 30051
+code: BGS23
+locale:
+  bg:
+    name: Село Завет
+    description: '...'
+  en:
+    name: Zavet Village
+    description: '...'

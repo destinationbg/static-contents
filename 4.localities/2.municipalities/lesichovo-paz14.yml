@@ -1,0 +1,11 @@
+slug: lesichovo
+ekatte: 43369
+code: PAZ14
+locale:
+  bg:
+    name: Община Лесичово
+    description: '...'
+  en:
+    name: Lesichovo Municipality
+    description: '...'
+region: trakia

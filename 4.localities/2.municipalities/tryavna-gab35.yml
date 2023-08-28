@@ -1,0 +1,11 @@
+slug: tryavna
+ekatte: 73403
+code: GAB35
+locale:
+  bg:
+    name: Община Трявна
+    description: '...'
+  en:
+    name: Tryavna Municipality
+    description: '...'
+region: stara-planina

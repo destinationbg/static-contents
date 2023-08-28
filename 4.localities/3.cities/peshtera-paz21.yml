@@ -1,0 +1,10 @@
+slug: peshtera
+ekatte: 56277
+code: PAZ21
+locale:
+  bg:
+    name: Град Пещера
+    description: '...'
+  en:
+    name: Peshtera City
+    description: '...'

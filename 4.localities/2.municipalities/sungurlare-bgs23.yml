@@ -1,0 +1,11 @@
+slug: sungurlare
+ekatte: 70247
+code: BGS23
+locale:
+  bg:
+    name: Община Сунгурларе
+    description: '...'
+  en:
+    name: Sungurlare Municipality
+    description: '...'
+region: stara-planina

@@ -1,0 +1,11 @@
+slug: saedinenie
+ekatte: 70528
+code: PDV33
+locale:
+  bg:
+    name: Община Съединение
+    description: '...'
+  en:
+    name: Saedinenie Municipality
+    description: '...'
+region: trakia

@@ -1,0 +1,11 @@
+slug: varshets
+ekatte: 12961
+code: MON12
+locale:
+  bg:
+    name: Община Вършец
+    description: '...'
+  en:
+    name: Varshets Municipality
+    description: '...'
+region: stara-planina

@@ -1,0 +1,11 @@
+slug: tutrakan
+ekatte: 73496
+code: SLS34
+locale:
+  bg:
+    name: Община Тутракан
+    description: '...'
+  en:
+    name: Tutrakan Municipality
+    description: '...'
+region: danube

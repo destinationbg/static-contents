@@ -1,0 +1,11 @@
+slug: mizia
+ekatte: 48043
+code: VRC28
+locale:
+  bg:
+    name: Община Мизия
+    description: '...'
+  en:
+    name: Mizia Municipality
+    description: '...'
+region: danube

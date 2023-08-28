@@ -1,0 +1,10 @@
+slug: silistra
+ekatte: 66425
+code: SLS
+locale:
+  bg:
+    name: Област Силистра
+    description: '...'
+  en:
+    name: Silistra Province
+    description: '...'

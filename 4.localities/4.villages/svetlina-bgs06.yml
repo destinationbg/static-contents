@@ -1,0 +1,10 @@
+slug: svetlina
+ekatte: 65560
+code: BGS06
+locale:
+  bg:
+    name: Село Светлина
+    description: '...'
+  en:
+    name: Svetlina Village
+    description: '...'

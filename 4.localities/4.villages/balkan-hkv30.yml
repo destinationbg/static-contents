@@ -1,0 +1,10 @@
+slug: balkan
+ekatte: 02436
+code: HKV30
+locale:
+  bg:
+    name: Село Балкан
+    description: '...'
+  en:
+    name: Balkan Village
+    description: '...'

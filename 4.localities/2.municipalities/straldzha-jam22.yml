@@ -1,0 +1,11 @@
+slug: straldzha
+ekatte: 69660
+code: JAM22
+locale:
+  bg:
+    name: Община Стралджа
+    description: '...'
+  en:
+    name: Straldzha Municipality
+    description: '...'
+region: trakia

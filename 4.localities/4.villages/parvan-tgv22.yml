@@ -1,0 +1,10 @@
+slug: parvan
+ekatte: 59029
+code: TGV22
+locale:
+  bg:
+    name: Село Първан
+    description: '...'
+  en:
+    name: Parvan Village
+    description: '...'

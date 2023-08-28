@@ -1,0 +1,11 @@
+slug: avren
+ekatte: 00084
+code: VAR01
+locale:
+  bg:
+    name: Община Аврен
+    description: '...'
+  en:
+    name: Avren Municipality
+    description: '...'
+region: varna-black-sea

@@ -1,0 +1,10 @@
+slug: ravno-selo
+ekatte: 61251
+code: TGV02
+locale:
+  bg:
+    name: Село Равно село
+    description: '...'
+  en:
+    name: Ravno selo Village
+    description: '...'

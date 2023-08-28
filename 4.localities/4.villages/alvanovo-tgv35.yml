@@ -1,0 +1,10 @@
+slug: alvanovo
+ekatte: 00215
+code: TGV35
+locale:
+  bg:
+    name: Село Алваново
+    description: '...'
+  en:
+    name: Alvanovo Village
+    description: '...'

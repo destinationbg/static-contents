@@ -1,0 +1,11 @@
+slug: boynitsa
+ekatte: 05195
+code: VID03
+locale:
+  bg:
+    name: Община Бойница
+    description: '...'
+  en:
+    name: Boynitsa Municipality
+    description: '...'
+region: danube

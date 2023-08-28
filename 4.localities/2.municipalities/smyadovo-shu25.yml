@@ -1,0 +1,11 @@
+slug: smyadovo
+ekatte: 67708
+code: SHU25
+locale:
+  bg:
+    name: Община Смядово
+    description: '...'
+  en:
+    name: Smyadovo Municipality
+    description: '...'
+region: varna-black-sea

@@ -1,0 +1,11 @@
+slug: isperih
+ekatte: 32874
+code: RAZ14
+locale:
+  bg:
+    name: Община Исперих
+    description: '...'
+  en:
+    name: Isperih Municipality
+    description: '...'
+region: danube

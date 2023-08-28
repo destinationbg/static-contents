@@ -1,0 +1,10 @@
+slug: vidin
+ekatte: 10971
+code: VID
+locale:
+  bg:
+    name: Област Видин
+    description: '...'
+  en:
+    name: Vidin Province
+    description: '...'

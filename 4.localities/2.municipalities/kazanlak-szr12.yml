@@ -1,0 +1,11 @@
+slug: kazanlak
+ekatte: 35167
+code: SZR12
+locale:
+  bg:
+    name: Община Казанлък
+    description: '...'
+  en:
+    name: Kazanlak Municipality
+    description: '...'
+region: valley-of-roses

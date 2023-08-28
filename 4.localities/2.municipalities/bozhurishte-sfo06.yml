@@ -1,0 +1,11 @@
+slug: bozhurishte
+ekatte: 05027
+code: SFO06
+locale:
+  bg:
+    name: Община Божурище
+    description: '...'
+  en:
+    name: Bozhurishte Municipality
+    description: '...'
+region: sofia

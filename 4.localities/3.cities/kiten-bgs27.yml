@@ -1,0 +1,10 @@
+slug: kiten
+ekatte: 37023
+code: BGS27
+locale:
+  bg:
+    name: Град Китен
+    description: '...'
+  en:
+    name: Kiten City
+    description: '...'

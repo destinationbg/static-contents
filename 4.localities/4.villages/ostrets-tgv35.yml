@@ -1,0 +1,10 @@
+slug: ostrets
+ekatte: 54345
+code: TGV35
+locale:
+  bg:
+    name: Село Острец
+    description: '...'
+  en:
+    name: Ostrets Village
+    description: '...'

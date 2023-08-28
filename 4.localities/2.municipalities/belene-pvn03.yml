@@ -1,0 +1,11 @@
+slug: belene
+ekatte: 03366
+code: PVN03
+locale:
+  bg:
+    name: Община Белене
+    description: '...'
+  en:
+    name: Belene Municipality
+    description: '...'
+region: danube

@@ -1,0 +1,11 @@
+slug: kirkovo
+ekatte: 36926
+code: KRZ14
+locale:
+  bg:
+    name: Община Кирково
+    description: '...'
+  en:
+    name: Kirkovo Municipality
+    description: '...'
+region: rhodopes

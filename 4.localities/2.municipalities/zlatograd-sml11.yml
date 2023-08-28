@@ -1,0 +1,11 @@
+slug: zlatograd
+ekatte: 31111
+code: SML11
+locale:
+  bg:
+    name: Община Златоград
+    description: '...'
+  en:
+    name: Zlatograd Municipality
+    description: '...'
+region: rhodopes

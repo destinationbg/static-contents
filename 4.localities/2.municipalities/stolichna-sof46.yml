@@ -1,0 +1,11 @@
+slug: stolichna
+ekatte: 68134
+code: SOF46
+locale:
+  bg:
+    name: Община Столична
+    description: '...'
+  en:
+    name: Stolichna Municipality
+    description: '...'
+region: sofia

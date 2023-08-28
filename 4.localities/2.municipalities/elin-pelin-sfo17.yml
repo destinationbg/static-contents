@@ -1,0 +1,11 @@
+slug: elin-pelin
+ekatte: 27303
+code: SFO17
+locale:
+  bg:
+    name: Община Елин Пелин
+    description: '...'
+  en:
+    name: Elin Pelin Municipality
+    description: '...'
+region: sofia

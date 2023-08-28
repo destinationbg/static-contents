@@ -1,0 +1,10 @@
+slug: vokil
+ekatte: 12022
+code: SLS10
+locale:
+  bg:
+    name: Село Вокил
+    description: '...'
+  en:
+    name: Vokil Village
+    description: '...'

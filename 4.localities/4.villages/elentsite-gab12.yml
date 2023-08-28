@@ -1,0 +1,10 @@
+slug: elentsite
+ekatte: 27276
+code: GAB12
+locale:
+  bg:
+    name: Село Еленците
+    description: '...'
+  en:
+    name: Elentsite Village
+    description: '...'

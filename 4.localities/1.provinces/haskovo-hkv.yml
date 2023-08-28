@@ -1,0 +1,10 @@
+slug: haskovo
+ekatte: 77195
+code: HKV
+locale:
+  bg:
+    name: Област Хасково
+    description: '...'
+  en:
+    name: Haskovo Province
+    description: '...'

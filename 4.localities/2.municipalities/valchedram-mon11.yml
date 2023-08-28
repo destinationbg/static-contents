@@ -1,0 +1,11 @@
+slug: valchedram
+ekatte: 12543
+code: MON11
+locale:
+  bg:
+    name: Община Вълчедръм
+    description: '...'
+  en:
+    name: Valchedram Municipality
+    description: '...'
+region: danube

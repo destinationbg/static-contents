@@ -1,0 +1,11 @@
+slug: brusartsi
+ekatte: 06570
+code: MON07
+locale:
+  bg:
+    name: Община Брусарци
+    description: '...'
+  en:
+    name: Brusartsi Municipality
+    description: '...'
+region: danube

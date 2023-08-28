@@ -1,0 +1,11 @@
+slug: karlovo
+ekatte: 36498
+code: PDV13
+locale:
+  bg:
+    name: Община Карлово
+    description: '...'
+  en:
+    name: Karlovo Municipality
+    description: '...'
+region: valley-of-roses

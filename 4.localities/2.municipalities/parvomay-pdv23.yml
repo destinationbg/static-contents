@@ -1,0 +1,11 @@
+slug: parvomay
+ekatte: 59080
+code: PDV23
+locale:
+  bg:
+    name: Община Първомай
+    description: '...'
+  en:
+    name: Parvomay Municipality
+    description: '...'
+region: trakia

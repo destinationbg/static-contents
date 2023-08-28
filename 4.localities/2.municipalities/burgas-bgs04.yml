@@ -1,0 +1,11 @@
+slug: burgas
+ekatte: 07079
+code: BGS04
+locale:
+  bg:
+    name: Община Бургас
+    description: '...'
+  en:
+    name: Burgas Municipality
+    description: '...'
+region: bourgas-black-sea

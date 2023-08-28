@@ -1,0 +1,11 @@
+slug: asenovgrad
+ekatte: 00702
+code: PDV01
+locale:
+  bg:
+    name: Община Асеновград
+    description: '...'
+  en:
+    name: Asenovgrad Municipality
+    description: '...'
+region: rhodopes

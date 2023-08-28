@@ -1,0 +1,11 @@
+slug: kameno
+ekatte: 35883
+code: BGS08
+locale:
+  bg:
+    name: Община Камено
+    description: '...'
+  en:
+    name: Kameno Municipality
+    description: '...'
+region: bourgas-black-sea

@@ -1,0 +1,10 @@
+slug: momin-prohod
+ekatte: 50245
+code: SFO25
+locale:
+  bg:
+    name: Град Момин проход
+    description: '...'
+  en:
+    name: Momin prohod City
+    description: '...'

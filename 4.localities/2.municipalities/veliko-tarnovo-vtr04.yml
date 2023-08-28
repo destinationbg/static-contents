@@ -1,0 +1,11 @@
+slug: veliko-tarnovo
+ekatte: 10447
+code: VTR04
+locale:
+  bg:
+    name: Община Велико Търново
+    description: '...'
+  en:
+    name: Veliko Tarnovo Municipality
+    description: '...'
+region: stara-planina

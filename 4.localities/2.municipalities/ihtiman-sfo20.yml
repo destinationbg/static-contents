@@ -1,0 +1,11 @@
+slug: ihtiman
+ekatte: 32901
+code: SFO20
+locale:
+  bg:
+    name: Община Ихтиман
+    description: '...'
+  en:
+    name: Ihtiman Municipality
+    description: '...'
+region: sofia

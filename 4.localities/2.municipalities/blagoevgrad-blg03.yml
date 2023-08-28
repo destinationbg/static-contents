@@ -1,0 +1,11 @@
+slug: blagoevgrad
+ekatte: 04279
+code: BLG03
+locale:
+  bg:
+    name: Община Благоевград
+    description: '...'
+  en:
+    name: Blagoevgrad Municipality
+    description: '...'
+region: rila-pirin

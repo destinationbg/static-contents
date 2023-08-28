@@ -1,0 +1,11 @@
+slug: stambolovo
+ekatte: 68727
+code: HKV30
+locale:
+  bg:
+    name: Община Стамболово
+    description: '...'
+  en:
+    name: Stambolovo Municipality
+    description: '...'
+region: trakia

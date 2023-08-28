@@ -1,0 +1,11 @@
+slug: krivodol
+ekatte: 39846
+code: VRC21
+locale:
+  bg:
+    name: Община Криводол
+    description: '...'
+  en:
+    name: Krivodol Municipality
+    description: '...'
+region: stara-planina

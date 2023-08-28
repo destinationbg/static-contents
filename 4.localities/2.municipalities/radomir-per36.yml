@@ -1,0 +1,11 @@
+slug: radomir
+ekatte: 61577
+code: PER36
+locale:
+  bg:
+    name: Община Радомир
+    description: '...'
+  en:
+    name: Radomir Municipality
+    description: '...'
+region: sofia

@@ -1,0 +1,11 @@
+slug: byala-varna
+ekatte: 07598
+code: VAR05
+locale:
+  bg:
+    name: Община Бяла (обл. Варна)
+    description: '...'
+  en:
+    name: Byala Municipality (Varna Province)
+    description: '...'
+region: varna-black-sea

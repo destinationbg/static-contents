@@ -1,0 +1,10 @@
+slug: pravda
+ekatte: 57981
+code: VTR06
+locale:
+  bg:
+    name: Село Правда
+    description: '...'
+  en:
+    name: Pravda Village
+    description: '...'

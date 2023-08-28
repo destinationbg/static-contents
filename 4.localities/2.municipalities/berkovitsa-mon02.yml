@@ -1,0 +1,11 @@
+slug: berkovitsa
+ekatte: 03928
+code: MON02
+locale:
+  bg:
+    name: Община Берковица
+    description: '...'
+  en:
+    name: Berkovitsa Municipality
+    description: '...'
+region: stara-planina

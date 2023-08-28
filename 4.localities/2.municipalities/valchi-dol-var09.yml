@@ -1,0 +1,11 @@
+slug: valchi-dol
+ekatte: 12574
+code: VAR09
+locale:
+  bg:
+    name: Община Вълчи дол
+    description: '...'
+  en:
+    name: Valchi dol Municipality
+    description: '...'
+region: varna-black-sea

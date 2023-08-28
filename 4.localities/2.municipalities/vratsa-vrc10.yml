@@ -1,0 +1,11 @@
+slug: vratsa
+ekatte: 12259
+code: VRC10
+locale:
+  bg:
+    name: Община Враца
+    description: '...'
+  en:
+    name: Vratsa Municipality
+    description: '...'
+region: stara-planina

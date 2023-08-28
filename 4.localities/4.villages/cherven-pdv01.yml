@@ -1,0 +1,10 @@
+slug: cherven
+ekatte: 80437
+code: PDV01
+locale:
+  bg:
+    name: Село Червен
+    description: '...'
+  en:
+    name: Cherven Village
+    description: '...'

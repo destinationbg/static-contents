@@ -1,0 +1,11 @@
+slug: boychinovtsi
+ekatte: 05236
+code: MON04
+locale:
+  bg:
+    name: Община Бойчиновци
+    description: '...'
+  en:
+    name: Boychinovtsi Municipality
+    description: '...'
+region: danube

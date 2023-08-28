@@ -1,0 +1,11 @@
+slug: roman
+ekatte: 62997
+code: VRC32
+locale:
+  bg:
+    name: Община Роман
+    description: '...'
+  en:
+    name: Roman Municipality
+    description: '...'
+region: stara-planina

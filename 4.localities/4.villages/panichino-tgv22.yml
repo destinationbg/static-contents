@@ -1,0 +1,10 @@
+slug: panichino
+ekatte: 55381
+code: TGV22
+locale:
+  bg:
+    name: Село Паничино
+    description: '...'
+  en:
+    name: Panichino Village
+    description: '...'

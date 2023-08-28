@@ -1,0 +1,10 @@
+slug: slatina
+ekatte: 67249
+code: SLS32
+locale:
+  bg:
+    name: Село Слатина
+    description: '...'
+  en:
+    name: Slatina Village
+    description: '...'

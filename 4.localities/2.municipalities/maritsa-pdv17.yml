@@ -1,0 +1,11 @@
+slug: maritsa
+ekatte: 56784
+code: PDV17
+locale:
+  bg:
+    name: Община Марица
+    description: '...'
+  en:
+    name: Maritsa Municipality
+    description: '...'
+region: trakia

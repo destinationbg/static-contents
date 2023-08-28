@@ -1,0 +1,11 @@
+slug: ugarchin
+ekatte: 75054
+code: LOV36
+locale:
+  bg:
+    name: Община Угърчин
+    description: '...'
+  en:
+    name: Ugarchin Municipality
+    description: '...'
+region: stara-planina

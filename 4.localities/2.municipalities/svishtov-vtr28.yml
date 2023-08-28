@@ -1,0 +1,11 @@
+slug: svishtov
+ekatte: 65766
+code: VTR28
+locale:
+  bg:
+    name: Община Свищов
+    description: '...'
+  en:
+    name: Svishtov Municipality
+    description: '...'
+region: danube

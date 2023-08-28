@@ -1,0 +1,10 @@
+slug: sveta-petka
+ekatte: 65534
+code: PAZ08
+locale:
+  bg:
+    name: Село Света Петка
+    description: '...'
+  en:
+    name: Sveta Petka Village
+    description: '...'

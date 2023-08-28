@@ -1,0 +1,11 @@
+slug: primorsko
+ekatte: 58356
+code: BGS27
+locale:
+  bg:
+    name: Община Приморско
+    description: '...'
+  en:
+    name: Primorsko Municipality
+    description: '...'
+region: bourgas-black-sea

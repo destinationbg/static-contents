@@ -1,0 +1,10 @@
+slug: kamenka
+ekatte: 35849
+code: KRZ15
+locale:
+  bg:
+    name: Село Каменка
+    description: '...'
+  en:
+    name: Kamenka Village
+    description: '...'

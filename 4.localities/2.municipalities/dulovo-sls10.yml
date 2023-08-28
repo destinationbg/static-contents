@@ -1,0 +1,11 @@
+slug: dulovo
+ekatte: 24030
+code: SLS10
+locale:
+  bg:
+    name: Община Дулово
+    description: '...'
+  en:
+    name: Dulovo Municipality
+    description: '...'
+region: danube

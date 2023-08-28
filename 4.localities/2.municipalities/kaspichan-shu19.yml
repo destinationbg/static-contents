@@ -1,0 +1,11 @@
+slug: kaspichan
+ekatte: 36587
+code: SHU19
+locale:
+  bg:
+    name: Община Каспичан
+    description: '...'
+  en:
+    name: Kaspichan Municipality
+    description: '...'
+region: varna-black-sea

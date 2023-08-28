@@ -1,0 +1,11 @@
+slug: kostinbrod
+ekatte: 38978
+code: SFO26
+locale:
+  bg:
+    name: Община Костинброд
+    description: '...'
+  en:
+    name: Kostinbrod Municipality
+    description: '...'
+region: sofia

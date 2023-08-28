@@ -1,0 +1,11 @@
+slug: peshtera
+ekatte: 56277
+code: PAZ21
+locale:
+  bg:
+    name: Община Пещера
+    description: '...'
+  en:
+    name: Peshtera Municipality
+    description: '...'
+region: trakia

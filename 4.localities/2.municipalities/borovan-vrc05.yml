@@ -1,0 +1,11 @@
+slug: borovan
+ekatte: 05548
+code: VRC05
+locale:
+  bg:
+    name: Община Борован
+    description: '...'
+  en:
+    name: Borovan Municipality
+    description: '...'
+region: danube

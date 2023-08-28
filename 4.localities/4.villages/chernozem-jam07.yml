@@ -1,0 +1,10 @@
+slug: chernozem
+ekatte: 81121
+code: JAM07
+locale:
+  bg:
+    name: Село Чернозем
+    description: '...'
+  en:
+    name: Chernozem Village
+    description: '...'

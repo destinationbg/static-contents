@@ -1,0 +1,10 @@
+slug: pleven
+ekatte: 56722
+code: PVN24
+locale:
+  bg:
+    name: Град Плевен
+    description: '...'
+  en:
+    name: Pleven City
+    description: '...'

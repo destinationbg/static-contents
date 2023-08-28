@@ -1,0 +1,10 @@
+slug: sliven
+ekatte: 67338
+code: SLV20
+locale:
+  bg:
+    name: Град Сливен
+    description: '...'
+  en:
+    name: Sliven City
+    description: '...'

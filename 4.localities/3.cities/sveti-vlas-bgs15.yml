@@ -1,0 +1,10 @@
+slug: sveti-vlas
+ekatte: 11538
+code: BGS15
+locale:
+  bg:
+    name: Град Свети Влас
+    description: '...'
+  en:
+    name: Sveti Vlas City
+    description: '...'

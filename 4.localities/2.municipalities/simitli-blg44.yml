@@ -1,0 +1,11 @@
+slug: simitli
+ekatte: 66460
+code: BLG44
+locale:
+  bg:
+    name: Община Симитли
+    description: '...'
+  en:
+    name: Simitli Municipality
+    description: '...'
+region: rila-pirin

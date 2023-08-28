@@ -1,0 +1,11 @@
+slug: rodopi
+ekatte: 56784
+code: PDV26
+locale:
+  bg:
+    name: Община Родопи
+    description: '...'
+  en:
+    name: Rodopi Municipality
+    description: '...'
+region: rhodopes

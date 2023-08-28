@@ -1,0 +1,11 @@
+slug: sozopol
+ekatte: 67800
+code: BGS21
+locale:
+  bg:
+    name: Община Созопол
+    description: '...'
+  en:
+    name: Sozopol Municipality
+    description: '...'
+region: bourgas-black-sea

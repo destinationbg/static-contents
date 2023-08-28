@@ -1,0 +1,11 @@
+slug: banite
+ekatte: 44402
+code: SML02
+locale:
+  bg:
+    name: Община Баните
+    description: '...'
+  en:
+    name: Banite Municipality
+    description: '...'
+region: rhodopes

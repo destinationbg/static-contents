@@ -1,0 +1,10 @@
+slug: kazatsite
+ekatte: 35184
+code: KRZ08
+locale:
+  bg:
+    name: Село Казаците
+    description: '...'
+  en:
+    name: Kazatsite Village
+    description: '...'

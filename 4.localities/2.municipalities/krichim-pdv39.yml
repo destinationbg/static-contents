@@ -1,0 +1,11 @@
+slug: krichim
+ekatte: 39921
+code: PDV39
+locale:
+  bg:
+    name: Община Кричим
+    description: '...'
+  en:
+    name: Krichim Municipality
+    description: '...'
+region: trakia

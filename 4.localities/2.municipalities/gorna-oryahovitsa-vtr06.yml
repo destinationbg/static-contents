@@ -1,0 +1,11 @@
+slug: gorna-oryahovitsa
+ekatte: 16359
+code: VTR06
+locale:
+  bg:
+    name: Община Горна Оряховица
+    description: '...'
+  en:
+    name: Gorna Oryahovitsa Municipality
+    description: '...'
+region: stara-planina

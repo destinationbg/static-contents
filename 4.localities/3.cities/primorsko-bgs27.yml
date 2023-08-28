@@ -1,0 +1,10 @@
+slug: primorsko
+ekatte: 58356
+code: BGS27
+locale:
+  bg:
+    name: Град Приморско
+    description: '...'
+  en:
+    name: Primorsko City
+    description: '...'

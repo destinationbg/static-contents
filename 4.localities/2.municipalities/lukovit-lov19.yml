@@ -1,0 +1,11 @@
+slug: lukovit
+ekatte: 44327
+code: LOV19
+locale:
+  bg:
+    name: Община Луковит
+    description: '...'
+  en:
+    name: Lukovit Municipality
+    description: '...'
+region: stara-planina

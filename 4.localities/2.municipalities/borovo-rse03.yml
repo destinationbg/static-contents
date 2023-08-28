@@ -1,0 +1,11 @@
+slug: borovo
+ekatte: 05611
+code: RSE03
+locale:
+  bg:
+    name: Община Борово
+    description: '...'
+  en:
+    name: Borovo Municipality
+    description: '...'
+region: danube

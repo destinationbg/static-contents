@@ -1,0 +1,10 @@
+slug: beloslav
+ekatte: 03719
+code: VAR04
+locale:
+  bg:
+    name: Град Белослав
+    description: '...'
+  en:
+    name: Beloslav City
+    description: '...'

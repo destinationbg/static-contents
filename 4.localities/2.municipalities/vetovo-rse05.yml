@@ -1,0 +1,11 @@
+slug: vetovo
+ekatte: 10803
+code: RSE05
+locale:
+  bg:
+    name: Община Ветово
+    description: '...'
+  en:
+    name: Vetovo Municipality
+    description: '...'
+region: danube

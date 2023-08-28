@@ -1,0 +1,10 @@
+slug: chemish
+ekatte: 80368
+code: MON14
+locale:
+  bg:
+    name: Село Чемиш
+    description: '...'
+  en:
+    name: Chemish Village
+    description: '...'

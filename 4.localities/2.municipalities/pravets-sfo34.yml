@@ -1,0 +1,11 @@
+slug: pravets
+ekatte: 58030
+code: SFO34
+locale:
+  bg:
+    name: Община Правец
+    description: '...'
+  en:
+    name: Pravets Municipality
+    description: '...'
+region: sofia

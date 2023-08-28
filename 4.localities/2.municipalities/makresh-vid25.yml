@@ -1,0 +1,11 @@
+slug: makresh
+ekatte: 46245
+code: VID25
+locale:
+  bg:
+    name: Община Макреш
+    description: '...'
+  en:
+    name: Makresh Municipality
+    description: '...'
+region: danube

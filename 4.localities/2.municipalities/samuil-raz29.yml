@@ -1,0 +1,11 @@
+slug: samuil
+ekatte: 65276
+code: RAZ29
+locale:
+  bg:
+    name: Община Самуил
+    description: '...'
+  en:
+    name: Samuil Municipality
+    description: '...'
+region: danube

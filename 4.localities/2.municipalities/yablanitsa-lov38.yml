@@ -1,0 +1,11 @@
+slug: yablanitsa
+ekatte: 87014
+code: LOV38
+locale:
+  bg:
+    name: Община Ябланица
+    description: '...'
+  en:
+    name: Yablanitsa Municipality
+    description: '...'
+region: stara-planina

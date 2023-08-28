@@ -1,0 +1,11 @@
+slug: gabrovo
+ekatte: 14218
+code: GAB05
+locale:
+  bg:
+    name: Община Габрово
+    description: '...'
+  en:
+    name: Gabrovo Municipality
+    description: '...'
+region: stara-planina

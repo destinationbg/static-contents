@@ -1,0 +1,10 @@
+slug: vardun
+ekatte: 10121
+code: TGV35
+locale:
+  bg:
+    name: Село Вардун
+    description: '...'
+  en:
+    name: Vardun Village
+    description: '...'

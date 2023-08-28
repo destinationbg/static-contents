@@ -1,0 +1,11 @@
+slug: dimitrovgrad
+ekatte: 21052
+code: HKV09
+locale:
+  bg:
+    name: Община Димитровград
+    description: '...'
+  en:
+    name: Dimitrovgrad Municipality
+    description: '...'
+region: trakia

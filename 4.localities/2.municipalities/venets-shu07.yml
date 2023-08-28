@@ -1,0 +1,11 @@
+slug: venets
+ekatte: 10642
+code: SHU07
+locale:
+  bg:
+    name: Община Венец
+    description: '...'
+  en:
+    name: Venets Municipality
+    description: '...'
+region: danube

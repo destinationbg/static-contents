@@ -1,0 +1,11 @@
+slug: petrich
+ekatte: 56126
+code: BLG33
+locale:
+  bg:
+    name: Община Петрич
+    description: '...'
+  en:
+    name: Petrich Municipality
+    description: '...'
+region: rila-pirin

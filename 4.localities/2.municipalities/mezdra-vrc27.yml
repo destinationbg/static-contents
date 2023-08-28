@@ -1,0 +1,11 @@
+slug: mezdra
+ekatte: 47714
+code: VRC27
+locale:
+  bg:
+    name: Община Мездра
+    description: '...'
+  en:
+    name: Mezdra Municipality
+    description: '...'
+region: stara-planina

@@ -1,0 +1,10 @@
+slug: banya
+ekatte: 02720
+code: PDV13
+locale:
+  bg:
+    name: Град Баня
+    description: '...'
+  en:
+    name: Banya City
+    description: '...'

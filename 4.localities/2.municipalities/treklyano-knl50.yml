@@ -1,0 +1,11 @@
+slug: treklyano
+ekatte: 73047
+code: KNL50
+locale:
+  bg:
+    name: Община Трекляно
+    description: '...'
+  en:
+    name: Treklyano Municipality
+    description: '...'
+region: sofia

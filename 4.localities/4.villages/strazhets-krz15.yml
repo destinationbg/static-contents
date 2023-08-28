@@ -1,0 +1,10 @@
+slug: strazhets
+ekatte: 81743
+code: KRZ15
+locale:
+  bg:
+    name: Село Стражец
+    description: '...'
+  en:
+    name: Strazhets Village
+    description: '...'

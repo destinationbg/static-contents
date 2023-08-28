@@ -1,0 +1,10 @@
+slug: banya
+ekatte: 02703
+code: BGS15
+locale:
+  bg:
+    name: Село Баня
+    description: '...'
+  en:
+    name: Banya Village
+    description: '...'

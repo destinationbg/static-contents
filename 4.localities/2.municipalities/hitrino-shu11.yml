@@ -1,0 +1,11 @@
+slug: hitrino
+ekatte: 14516
+code: SHU11
+locale:
+  bg:
+    name: Община Хитрино
+    description: '...'
+  en:
+    name: Hitrino Municipality
+    description: '...'
+region: danube

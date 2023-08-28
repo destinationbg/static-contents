@@ -1,0 +1,11 @@
+slug: anton
+ekatte: 00504
+code: SFO54
+locale:
+  bg:
+    name: Община Антон
+    description: '...'
+  en:
+    name: Anton Municipality
+    description: '...'
+region: valley-of-roses

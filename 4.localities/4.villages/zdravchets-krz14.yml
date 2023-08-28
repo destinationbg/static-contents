@@ -1,0 +1,10 @@
+slug: zdravchets
+ekatte: 30675
+code: KRZ14
+locale:
+  bg:
+    name: Село Здравчец
+    description: '...'
+  en:
+    name: Zdravchets Village
+    description: '...'

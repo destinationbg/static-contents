@@ -1,0 +1,10 @@
+slug: shumen
+ekatte: 83510
+code: SHU
+locale:
+  bg:
+    name: Област Шумен
+    description: '...'
+  en:
+    name: Shumen Province
+    description: '...'

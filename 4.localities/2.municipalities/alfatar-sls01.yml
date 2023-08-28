@@ -1,0 +1,11 @@
+slug: alfatar
+ekatte: 00415
+code: SLS01
+locale:
+  bg:
+    name: Община Алфатар
+    description: '...'
+  en:
+    name: Alfatar Municipality
+    description: '...'
+region: danube

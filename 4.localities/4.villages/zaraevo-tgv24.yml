@@ -1,0 +1,10 @@
+slug: zaraevo
+ekatte: 30332
+code: TGV24
+locale:
+  bg:
+    name: Село Зараево
+    description: '...'
+  en:
+    name: Zaraevo Village
+    description: '...'

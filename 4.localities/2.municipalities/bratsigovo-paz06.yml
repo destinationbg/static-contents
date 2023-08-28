@@ -1,0 +1,11 @@
+slug: bratsigovo
+ekatte: 06207
+code: PAZ06
+locale:
+  bg:
+    name: Община Брацигово
+    description: '...'
+  en:
+    name: Bratsigovo Municipality
+    description: '...'
+region: rhodopes

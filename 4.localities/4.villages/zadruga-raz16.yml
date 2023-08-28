@@ -1,0 +1,10 @@
+slug: zadruga
+ekatte: 30212
+code: RAZ16
+locale:
+  bg:
+    name: Село Задруга
+    description: '...'
+  en:
+    name: Zadruga Village
+    description: '...'

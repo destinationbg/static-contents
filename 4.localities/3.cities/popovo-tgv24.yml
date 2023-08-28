@@ -1,0 +1,10 @@
+slug: popovo
+ekatte: 57649
+code: TGV24
+locale:
+  bg:
+    name: Град Попово
+    description: '...'
+  en:
+    name: Popovo City
+    description: '...'

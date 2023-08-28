@@ -1,0 +1,10 @@
+slug: oven
+ekatte: 53148
+code: SLS10
+locale:
+  bg:
+    name: Село Овен
+    description: '...'
+  en:
+    name: Oven Village
+    description: '...'

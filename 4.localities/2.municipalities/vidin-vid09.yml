@@ -1,0 +1,11 @@
+slug: vidin
+ekatte: 10971
+code: VID09
+locale:
+  bg:
+    name: Община Видин
+    description: '...'
+  en:
+    name: Vidin Municipality
+    description: '...'
+region: danube

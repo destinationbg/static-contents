@@ -1,0 +1,11 @@
+slug: krumovgrad
+ekatte: 39970
+code: KRZ15
+locale:
+  bg:
+    name: Община Крумовград
+    description: '...'
+  en:
+    name: Krumovgrad Municipality
+    description: '...'
+region: rhodopes

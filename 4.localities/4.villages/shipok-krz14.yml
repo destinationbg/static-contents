@@ -1,0 +1,10 @@
+slug: shipok
+ekatte: 83226
+code: KRZ14
+locale:
+  bg:
+    name: Село Шипок
+    description: '...'
+  en:
+    name: Shipok Village
+    description: '...'

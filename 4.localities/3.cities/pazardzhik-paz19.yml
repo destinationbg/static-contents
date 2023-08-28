@@ -1,0 +1,10 @@
+slug: pazardzhik
+ekatte: 55155
+code: PAZ19
+locale:
+  bg:
+    name: Град Пазарджик
+    description: '...'
+  en:
+    name: Pazardzhik City
+    description: '...'

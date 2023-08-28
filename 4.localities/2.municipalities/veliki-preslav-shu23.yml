@@ -1,0 +1,11 @@
+slug: veliki-preslav
+ekatte: 58222
+code: SHU23
+locale:
+  bg:
+    name: Община Велики Преслав
+    description: '...'
+  en:
+    name: Veliki Preslav Municipality
+    description: '...'
+region: varna-black-sea

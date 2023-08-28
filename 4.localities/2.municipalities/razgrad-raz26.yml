@@ -1,0 +1,11 @@
+slug: razgrad
+ekatte: 61710
+code: RAZ26
+locale:
+  bg:
+    name: Община Разград
+    description: '...'
+  en:
+    name: Razgrad Municipality
+    description: '...'
+region: danube

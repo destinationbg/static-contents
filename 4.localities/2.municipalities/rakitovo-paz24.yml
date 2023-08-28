@@ -1,0 +1,11 @@
+slug: rakitovo
+ekatte: 62004
+code: PAZ24
+locale:
+  bg:
+    name: Община Ракитово
+    description: '...'
+  en:
+    name: Rakitovo Municipality
+    description: '...'
+region: rhodopes

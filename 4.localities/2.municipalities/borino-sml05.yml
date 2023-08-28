@@ -1,0 +1,11 @@
+slug: borino
+ekatte: 05462
+code: SML05
+locale:
+  bg:
+    name: Община Борино
+    description: '...'
+  en:
+    name: Borino Municipality
+    description: '...'
+region: rhodopes

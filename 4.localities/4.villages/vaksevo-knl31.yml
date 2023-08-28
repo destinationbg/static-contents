@@ -1,0 +1,10 @@
+slug: vaksevo
+ekatte: 10050
+code: KNL31
+locale:
+  bg:
+    name: Село Ваксево
+    description: '...'
+  en:
+    name: Vaksevo Village
+    description: '...'

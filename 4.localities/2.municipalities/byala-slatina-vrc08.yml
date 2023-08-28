@@ -1,0 +1,11 @@
+slug: byala-slatina
+ekatte: 07702
+code: VRC08
+locale:
+  bg:
+    name: Община Бяла Слатина
+    description: '...'
+  en:
+    name: Byala Slatina Municipality
+    description: '...'
+region: danube

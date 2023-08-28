@@ -1,0 +1,10 @@
+slug: smolnik
+ekatte: 72080
+code: BGS09
+locale:
+  bg:
+    name: Село Смолник
+    description: '...'
+  en:
+    name: Smolnik Village
+    description: '...'

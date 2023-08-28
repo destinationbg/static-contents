@@ -1,0 +1,11 @@
+slug: tsenovo
+ekatte: 78361
+code: RSE37
+locale:
+  bg:
+    name: Община Ценово
+    description: '...'
+  en:
+    name: Tsenovo Municipality
+    description: '...'
+region: danube

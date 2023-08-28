@@ -1,0 +1,11 @@
+slug: zemen
+ekatte: 30778
+code: PER19
+locale:
+  bg:
+    name: Община Земен
+    description: '...'
+  en:
+    name: Zemen Municipality
+    description: '...'
+region: sofia

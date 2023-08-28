@@ -1,0 +1,11 @@
+slug: opaka
+ekatte: 53552
+code: TGV23
+locale:
+  bg:
+    name: Община Опака
+    description: '...'
+  en:
+    name: Opaka Municipality
+    description: '...'
+region: danube

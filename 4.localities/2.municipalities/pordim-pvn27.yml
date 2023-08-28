@@ -1,0 +1,11 @@
+slug: pordim
+ekatte: 57772
+code: PVN27
+locale:
+  bg:
+    name: Община Пордим
+    description: '...'
+  en:
+    name: Pordim Municipality
+    description: '...'
+region: danube

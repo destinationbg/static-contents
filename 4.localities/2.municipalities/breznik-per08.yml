@@ -1,0 +1,11 @@
+slug: breznik
+ekatte: 06286
+code: PER08
+locale:
+  bg:
+    name: Община Брезник
+    description: '...'
+  en:
+    name: Breznik Municipality
+    description: '...'
+region: sofia

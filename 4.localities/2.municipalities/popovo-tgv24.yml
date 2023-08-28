@@ -1,0 +1,11 @@
+slug: popovo
+ekatte: 57649
+code: TGV24
+locale:
+  bg:
+    name: Община Попово
+    description: '...'
+  en:
+    name: Popovo Municipality
+    description: '...'
+region: danube

@@ -1,0 +1,10 @@
+slug: zvezda
+ekatte: 30435
+code: BGS18
+locale:
+  bg:
+    name: Село Звезда
+    description: '...'
+  en:
+    name: Zvezda Village
+    description: '...'

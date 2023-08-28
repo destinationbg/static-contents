@@ -1,0 +1,11 @@
+slug: mirkovo
+ekatte: 48324
+code: SFO56
+locale:
+  bg:
+    name: Община Мирково
+    description: '...'
+  en:
+    name: Mirkovo Municipality
+    description: '...'
+region: valley-of-roses

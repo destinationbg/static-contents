@@ -1,0 +1,11 @@
+slug: iskar
+ekatte: 55782
+code: PVN23
+locale:
+  bg:
+    name: Община Искър
+    description: '...'
+  en:
+    name: Iskar Municipality
+    description: '...'
+region: danube

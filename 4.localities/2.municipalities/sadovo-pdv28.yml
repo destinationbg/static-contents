@@ -1,0 +1,11 @@
+slug: sadovo
+ekatte: 65139
+code: PDV28
+locale:
+  bg:
+    name: Община Садово
+    description: '...'
+  en:
+    name: Sadovo Municipality
+    description: '...'
+region: trakia

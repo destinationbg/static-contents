@@ -1,0 +1,11 @@
+slug: aytos
+ekatte: 00151
+code: BGS01
+locale:
+  bg:
+    name: Община Айтос
+    description: '...'
+  en:
+    name: Aytos Municipality
+    description: '...'
+region: bourgas-black-sea

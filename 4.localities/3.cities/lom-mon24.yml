@@ -1,0 +1,10 @@
+slug: lom
+ekatte: 44238
+code: MON24
+locale:
+  bg:
+    name: Град Лом
+    description: '...'
+  en:
+    name: Lom City
+    description: '...'

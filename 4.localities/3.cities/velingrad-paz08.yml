@@ -1,0 +1,10 @@
+slug: velingrad
+ekatte: 10450
+code: PAZ08
+locale:
+  bg:
+    name: Град Велинград
+    description: '...'
+  en:
+    name: Velingrad City
+    description: '...'

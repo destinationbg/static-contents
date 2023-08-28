@@ -1,0 +1,10 @@
+slug: bilka
+ekatte: 04056
+code: BGS18
+locale:
+  bg:
+    name: Село Билка
+    description: '...'
+  en:
+    name: Bilka Village
+    description: '...'

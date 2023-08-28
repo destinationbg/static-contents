@@ -1,0 +1,10 @@
+slug: moravka
+ekatte: 49059
+code: TGV02
+locale:
+  bg:
+    name: Село Моравка
+    description: '...'
+  en:
+    name: Moravka Village
+    description: '...'

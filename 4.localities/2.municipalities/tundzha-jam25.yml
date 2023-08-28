@@ -1,0 +1,11 @@
+slug: tundzha
+ekatte: 87374
+code: JAM25
+locale:
+  bg:
+    name: Община Тунджа
+    description: '...'
+  en:
+    name: Tundzha Municipality
+    description: '...'
+region: trakia

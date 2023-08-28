@@ -1,0 +1,11 @@
+slug: kaynardzha
+ekatte: 35242
+code: SLS15
+locale:
+  bg:
+    name: Община Кайнарджа
+    description: '...'
+  en:
+    name: Kaynardzha Municipality
+    description: '...'
+region: danube

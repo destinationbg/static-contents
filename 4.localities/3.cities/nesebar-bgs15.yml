@@ -1,0 +1,10 @@
+slug: nesebar
+ekatte: 51500
+code: BGS15
+locale:
+  bg:
+    name: Град Несебър
+    description: '...'
+  en:
+    name: Nesebar City
+    description: '...'

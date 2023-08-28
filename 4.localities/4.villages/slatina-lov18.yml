@@ -1,0 +1,10 @@
+slug: slatina
+ekatte: 67218
+code: LOV18
+locale:
+  bg:
+    name: Село Слатина
+    description: '...'
+  en:
+    name: Slatina Village
+    description: '...'

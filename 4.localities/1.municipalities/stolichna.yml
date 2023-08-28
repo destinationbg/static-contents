@@ -1,9 +1,0 @@
-slug: stolichna
-locale:
-  bg:
-    name: Столична община
-    description: '...'
-  en:
-    name: Stolichna Municipality
-    description: '...'
-region: sofia

@@ -1,0 +1,10 @@
+slug: varna
+ekatte: 10135
+code: VAR06
+locale:
+  bg:
+    name: Град Варна
+    description: '...'
+  en:
+    name: Varna City
+    description: '...'

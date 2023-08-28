@@ -1,0 +1,11 @@
+slug: madan
+ekatte: 46045
+code: SML16
+locale:
+  bg:
+    name: Община Мадан
+    description: '...'
+  en:
+    name: Madan Municipality
+    description: '...'
+region: rhodopes

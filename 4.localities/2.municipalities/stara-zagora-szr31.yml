@@ -1,0 +1,11 @@
+slug: stara-zagora
+ekatte: 68850
+code: SZR31
+locale:
+  bg:
+    name: Община Стара Загора
+    description: '...'
+  en:
+    name: Stara Zagora Municipality
+    description: '...'
+region: trakia

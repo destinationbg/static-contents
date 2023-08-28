@@ -1,0 +1,10 @@
+slug: svoboda
+ekatte: 65783
+code: BGS08
+locale:
+  bg:
+    name: Село Свобода
+    description: '...'
+  en:
+    name: Svoboda Village
+    description: '...'

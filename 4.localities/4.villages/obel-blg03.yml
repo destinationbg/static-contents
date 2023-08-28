@@ -1,0 +1,10 @@
+slug: obel
+ekatte: 53031
+code: BLG03
+locale:
+  bg:
+    name: Село Обел
+    description: '...'
+  en:
+    name: Obel Village
+    description: '...'

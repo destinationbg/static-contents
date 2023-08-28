@@ -1,0 +1,10 @@
+slug: kazak
+ekatte: 35143
+code: HKV11
+locale:
+  bg:
+    name: Село Казак
+    description: '...'
+  en:
+    name: Kazak Village
+    description: '...'

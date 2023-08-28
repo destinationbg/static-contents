@@ -1,0 +1,11 @@
+slug: opan
+ekatte: 53576
+code: SZR23
+locale:
+  bg:
+    name: Община Опан
+    description: '...'
+  en:
+    name: Opan Municipality
+    description: '...'
+region: trakia

@@ -1,0 +1,11 @@
+slug: medkovets
+ekatte: 47593
+code: MON26
+locale:
+  bg:
+    name: Община Медковец
+    description: '...'
+  en:
+    name: Medkovets Municipality
+    description: '...'
+region: danube

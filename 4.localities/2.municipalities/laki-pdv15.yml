@@ -1,0 +1,11 @@
+slug: laki
+ekatte: 44478
+code: PDV15
+locale:
+  bg:
+    name: Община Лъки
+    description: '...'
+  en:
+    name: Laki Municipality
+    description: '...'
+region: rhodopes

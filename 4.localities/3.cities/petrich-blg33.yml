@@ -1,0 +1,10 @@
+slug: petrich
+ekatte: 56126
+code: BLG33
+locale:
+  bg:
+    name: Град Петрич
+    description: '...'
+  en:
+    name: Petrich City
+    description: '...'

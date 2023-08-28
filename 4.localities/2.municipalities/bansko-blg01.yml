@@ -1,0 +1,11 @@
+slug: bansko
+ekatte: 02676
+code: BLG01
+locale:
+  bg:
+    name: Община Банско
+    description: '...'
+  en:
+    name: Bansko Municipality
+    description: '...'
+region: rila-pirin

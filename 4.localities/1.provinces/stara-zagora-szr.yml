@@ -1,0 +1,10 @@
+slug: stara-zagora
+ekatte: 68850
+code: SZR
+locale:
+  bg:
+    name: Област Стара Загора
+    description: '...'
+  en:
+    name: Stara Zagora Province
+    description: '...'

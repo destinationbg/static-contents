@@ -1,0 +1,11 @@
+slug: sliven
+ekatte: 67338
+code: SLV20
+locale:
+  bg:
+    name: Община Сливен
+    description: '...'
+  en:
+    name: Sliven Municipality
+    description: '...'
+region: valley-of-roses

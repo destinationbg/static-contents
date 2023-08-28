@@ -1,0 +1,11 @@
+slug: cherven-bryag
+ekatte: 80501
+code: PVN37
+locale:
+  bg:
+    name: Община Червен бряг
+    description: '...'
+  en:
+    name: Cherven bryag Municipality
+    description: '...'
+region: danube

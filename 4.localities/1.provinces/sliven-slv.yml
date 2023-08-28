@@ -1,0 +1,10 @@
+slug: sliven
+ekatte: 67338
+code: SLV
+locale:
+  bg:
+    name: Област Сливен
+    description: '...'
+  en:
+    name: Sliven Province
+    description: '...'

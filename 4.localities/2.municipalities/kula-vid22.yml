@@ -1,0 +1,11 @@
+slug: kula
+ekatte: 40525
+code: VID22
+locale:
+  bg:
+    name: Община Кула
+    description: '...'
+  en:
+    name: Kula Municipality
+    description: '...'
+region: danube

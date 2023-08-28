@@ -1,0 +1,11 @@
+slug: plovdiv
+ekatte: 56784
+code: PDV22
+locale:
+  bg:
+    name: Община Пловдив
+    description: '...'
+  en:
+    name: Plovdiv Municipality
+    description: '...'
+region: trakia

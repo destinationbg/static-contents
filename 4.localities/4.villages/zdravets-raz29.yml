@@ -1,0 +1,10 @@
+slug: zdravets
+ekatte: 30630
+code: RAZ29
+locale:
+  bg:
+    name: Село Здравец
+    description: '...'
+  en:
+    name: Zdravets Village
+    description: '...'

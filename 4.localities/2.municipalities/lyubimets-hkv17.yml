@@ -1,0 +1,11 @@
+slug: lyubimets
+ekatte: 44570
+code: HKV17
+locale:
+  bg:
+    name: Община Любимец
+    description: '...'
+  en:
+    name: Lyubimets Municipality
+    description: '...'
+region: trakia

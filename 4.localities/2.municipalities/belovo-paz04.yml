@@ -1,0 +1,11 @@
+slug: belovo
+ekatte: 03592
+code: PAZ04
+locale:
+  bg:
+    name: Община Белово
+    description: '...'
+  en:
+    name: Belovo Municipality
+    description: '...'
+region: rila-pirin

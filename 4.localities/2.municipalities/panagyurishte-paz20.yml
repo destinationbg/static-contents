@@ -1,0 +1,11 @@
+slug: panagyurishte
+ekatte: 55302
+code: PAZ20
+locale:
+  bg:
+    name: Община Панагюрище
+    description: '...'
+  en:
+    name: Panagyurishte Municipality
+    description: '...'
+region: valley-of-roses

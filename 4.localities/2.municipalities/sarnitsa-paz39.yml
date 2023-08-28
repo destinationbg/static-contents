@@ -1,0 +1,11 @@
+slug: sarnitsa
+ekatte: 70648
+code: PAZ39
+locale:
+  bg:
+    name: Община Сърница
+    description: '...'
+  en:
+    name: Sarnitsa Municipality
+    description: '...'
+region: trakia

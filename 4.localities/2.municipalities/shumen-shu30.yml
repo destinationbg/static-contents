@@ -1,0 +1,11 @@
+slug: shumen
+ekatte: 83510
+code: SHU30
+locale:
+  bg:
+    name: Община Шумен
+    description: '...'
+  en:
+    name: Shumen Municipality
+    description: '...'
+region: varna-black-sea

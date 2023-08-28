@@ -1,0 +1,11 @@
+slug: garmen
+ekatte: 18366
+code: BLG13
+locale:
+  bg:
+    name: Община Гърмен
+    description: '...'
+  en:
+    name: Garmen Municipality
+    description: '...'
+region: rila-pirin

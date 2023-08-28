@@ -1,0 +1,11 @@
+slug: gorna-malina
+ekatte: 16314
+code: SFO10
+locale:
+  bg:
+    name: Община Горна Малина
+    description: '...'
+  en:
+    name: Gorna Malina Municipality
+    description: '...'
+region: sofia

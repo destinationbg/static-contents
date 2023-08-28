@@ -1,0 +1,11 @@
+slug: momchilgrad
+ekatte: 48996
+code: KRZ21
+locale:
+  bg:
+    name: Община Момчилград
+    description: '...'
+  en:
+    name: Momchilgrad Municipality
+    description: '...'
+region: rhodopes

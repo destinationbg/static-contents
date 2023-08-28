@@ -1,0 +1,10 @@
+slug: zavetno
+ekatte: 30079
+code: TGV24
+locale:
+  bg:
+    name: Село Заветно
+    description: '...'
+  en:
+    name: Zavetno Village
+    description: '...'

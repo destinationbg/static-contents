@@ -1,0 +1,10 @@
+slug: omurtag
+ekatte: 53535
+code: TGV22
+locale:
+  bg:
+    name: Град Омуртаг
+    description: '...'
+  en:
+    name: Omurtag City
+    description: '...'

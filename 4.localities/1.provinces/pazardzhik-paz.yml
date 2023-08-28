@@ -1,0 +1,10 @@
+slug: pazardzhik
+ekatte: 55155
+code: PAZ
+locale:
+  bg:
+    name: Област Пазарджик
+    description: '...'
+  en:
+    name: Pazardzhik Province
+    description: '...'

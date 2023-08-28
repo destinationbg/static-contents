@@ -1,0 +1,10 @@
+slug: plovdiv
+ekatte: 56784
+code: PDV22
+locale:
+  bg:
+    name: Град Пловдив
+    description: '...'
+  en:
+    name: Plovdiv City
+    description: '...'

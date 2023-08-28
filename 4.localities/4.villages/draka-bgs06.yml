@@ -1,0 +1,10 @@
+slug: draka
+ekatte: 23529
+code: BGS06
+locale:
+  bg:
+    name: Село Драка
+    description: '...'
+  en:
+    name: Draka Village
+    description: '...'

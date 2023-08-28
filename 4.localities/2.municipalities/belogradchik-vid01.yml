@@ -1,0 +1,11 @@
+slug: belogradchik
+ekatte: 03616
+code: VID01
+locale:
+  bg:
+    name: Община Белоградчик
+    description: '...'
+  en:
+    name: Belogradchik Municipality
+    description: '...'
+region: danube

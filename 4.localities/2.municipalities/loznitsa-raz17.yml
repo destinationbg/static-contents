@@ -1,0 +1,11 @@
+slug: loznitsa
+ekatte: 44166
+code: RAZ17
+locale:
+  bg:
+    name: Община Лозница
+    description: '...'
+  en:
+    name: Loznitsa Municipality
+    description: '...'
+region: danube

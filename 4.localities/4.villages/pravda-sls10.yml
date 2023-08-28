@@ -1,0 +1,10 @@
+slug: pravda
+ekatte: 57995
+code: SLS10
+locale:
+  bg:
+    name: Село Правда
+    description: '...'
+  en:
+    name: Pravda Village
+    description: '...'

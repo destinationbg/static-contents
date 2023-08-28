@@ -1,0 +1,11 @@
+slug: antonovo
+ekatte: 00518
+code: TGV02
+locale:
+  bg:
+    name: Община Антоново
+    description: '...'
+  en:
+    name: Antonovo Municipality
+    description: '...'
+region: stara-planina

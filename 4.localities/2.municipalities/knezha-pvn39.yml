@@ -1,0 +1,11 @@
+slug: knezha
+ekatte: 37376
+code: PVN39
+locale:
+  bg:
+    name: Община Кнежа
+    description: '...'
+  en:
+    name: Knezha Municipality
+    description: '...'
+region: danube

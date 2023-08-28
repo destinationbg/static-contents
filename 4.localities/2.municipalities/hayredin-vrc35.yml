@@ -1,0 +1,11 @@
+slug: hayredin
+ekatte: 77102
+code: VRC35
+locale:
+  bg:
+    name: Община Хайредин
+    description: '...'
+  en:
+    name: Hayredin Municipality
+    description: '...'
+region: danube

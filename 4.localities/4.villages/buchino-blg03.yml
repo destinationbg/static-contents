@@ -1,0 +1,10 @@
+slug: buchino
+ekatte: 07168
+code: BLG03
+locale:
+  bg:
+    name: Село Бучино
+    description: '...'
+  en:
+    name: Buchino Village
+    description: '...'

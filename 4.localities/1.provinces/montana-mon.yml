@@ -1,0 +1,10 @@
+slug: montana
+ekatte: 48489
+code: MON
+locale:
+  bg:
+    name: Област Монтана
+    description: '...'
+  en:
+    name: Montana Province
+    description: '...'

@@ -1,0 +1,11 @@
+slug: kocherinovo
+ekatte: 39116
+code: KNL27
+locale:
+  bg:
+    name: Община Кочериново
+    description: '...'
+  en:
+    name: Kocherinovo Municipality
+    description: '...'
+region: rila-pirin

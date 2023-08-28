@@ -1,0 +1,11 @@
+slug: pomorie
+ekatte: 57491
+code: BGS17
+locale:
+  bg:
+    name: Община Поморие
+    description: '...'
+  en:
+    name: Pomorie Municipality
+    description: '...'
+region: bourgas-black-sea

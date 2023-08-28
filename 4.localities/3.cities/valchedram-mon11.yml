@@ -1,0 +1,10 @@
+slug: valchedram
+ekatte: 12543
+code: MON11
+locale:
+  bg:
+    name: Град Вълчедръм
+    description: '...'
+  en:
+    name: Valchedram City
+    description: '...'

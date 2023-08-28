@@ -1,0 +1,11 @@
+slug: sredets
+ekatte: 17974
+code: BGS06
+locale:
+  bg:
+    name: Община Средец
+    description: '...'
+  en:
+    name: Sredets Municipality
+    description: '...'
+region: bourgas-black-sea

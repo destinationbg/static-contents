@@ -1,0 +1,11 @@
+slug: lom
+ekatte: 44238
+code: MON24
+locale:
+  bg:
+    name: Община Лом
+    description: '...'
+  en:
+    name: Lom Municipality
+    description: '...'
+region: danube

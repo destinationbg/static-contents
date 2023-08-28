@@ -1,0 +1,10 @@
+slug: osen
+ekatte: 54081
+code: TGV35
+locale:
+  bg:
+    name: Село Осен
+    description: '...'
+  en:
+    name: Osen Village
+    description: '...'

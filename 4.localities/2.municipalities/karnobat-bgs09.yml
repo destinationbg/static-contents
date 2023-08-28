@@ -1,0 +1,11 @@
+slug: karnobat
+ekatte: 36525
+code: BGS09
+locale:
+  bg:
+    name: Община Карнобат
+    description: '...'
+  en:
+    name: Karnobat Municipality
+    description: '...'
+region: bourgas-black-sea

@@ -1,0 +1,10 @@
+slug: peshtersko
+ekatte: 56321
+code: BGS01
+locale:
+  bg:
+    name: Село Пещерско
+    description: '...'
+  en:
+    name: Peshtersko Village
+    description: '...'

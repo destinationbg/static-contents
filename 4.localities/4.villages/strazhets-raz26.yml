@@ -1,0 +1,10 @@
+slug: strazhets
+ekatte: 70860
+code: RAZ26
+locale:
+  bg:
+    name: Село Стражец
+    description: '...'
+  en:
+    name: Strazhets Village
+    description: '...'

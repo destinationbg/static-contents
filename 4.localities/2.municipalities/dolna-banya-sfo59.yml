@@ -1,0 +1,11 @@
+slug: dolna-banya
+ekatte: 22006
+code: SFO59
+locale:
+  bg:
+    name: Община Долна баня
+    description: '...'
+  en:
+    name: Dolna banya Municipality
+    description: '...'
+region: rila-pirin

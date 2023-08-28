@@ -1,0 +1,10 @@
+slug: pravoslaven
+ekatte: 58089
+code: PDV23
+locale:
+  bg:
+    name: Село Православен
+    description: '...'
+  en:
+    name: Pravoslaven Village
+    description: '...'

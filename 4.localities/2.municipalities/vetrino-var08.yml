@@ -1,0 +1,11 @@
+slug: vetrino
+ekatte: 10865
+code: VAR08
+locale:
+  bg:
+    name: Община Ветрино
+    description: '...'
+  en:
+    name: Vetrino Municipality
+    description: '...'
+region: varna-black-sea

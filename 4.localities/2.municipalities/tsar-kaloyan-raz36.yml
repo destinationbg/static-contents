@@ -1,0 +1,11 @@
+slug: tsar-kaloyan
+ekatte: 77308
+code: RAZ36
+locale:
+  bg:
+    name: Община Цар Калоян
+    description: '...'
+  en:
+    name: Tsar Kaloyan Municipality
+    description: '...'
+region: danube

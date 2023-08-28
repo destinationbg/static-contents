@@ -1,0 +1,10 @@
+slug: debelets
+ekatte: 20242
+code: VTR04
+locale:
+  bg:
+    name: Град Дебелец
+    description: '...'
+  en:
+    name: Debelets City
+    description: '...'

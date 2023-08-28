@@ -1,0 +1,11 @@
+slug: ruse
+ekatte: 63427
+code: RSE27
+locale:
+  bg:
+    name: Община Русе
+    description: '...'
+  en:
+    name: Ruse Municipality
+    description: '...'
+region: danube

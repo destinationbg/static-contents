@@ -1,0 +1,10 @@
+slug: varana
+ekatte: 10080
+code: PVN16
+locale:
+  bg:
+    name: Село Варана
+    description: '...'
+  en:
+    name: Varana Village
+    description: '...'

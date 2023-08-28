@@ -1,0 +1,11 @@
+slug: pavlikeni
+ekatte: 55052
+code: VTR22
+locale:
+  bg:
+    name: Община Павликени
+    description: '...'
+  en:
+    name: Pavlikeni Municipality
+    description: '...'
+region: danube

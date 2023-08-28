@@ -1,0 +1,10 @@
+slug: burgas
+ekatte: 07079
+code: BGS
+locale:
+  bg:
+    name: Област Бургас
+    description: '...'
+  en:
+    name: Burgas Province
+    description: '...'

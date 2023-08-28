@@ -1,0 +1,11 @@
+slug: dospat
+ekatte: 23025
+code: SML10
+locale:
+  bg:
+    name: Община Доспат
+    description: '...'
+  en:
+    name: Dospat Municipality
+    description: '...'
+region: rhodopes

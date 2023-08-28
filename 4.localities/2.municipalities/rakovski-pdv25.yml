@@ -1,0 +1,11 @@
+slug: rakovski
+ekatte: 62075
+code: PDV25
+locale:
+  bg:
+    name: Община Раковски
+    description: '...'
+  en:
+    name: Rakovski Municipality
+    description: '...'
+region: trakia

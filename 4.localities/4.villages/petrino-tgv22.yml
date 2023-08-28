@@ -1,0 +1,10 @@
+slug: petrino
+ekatte: 56112
+code: TGV22
+locale:
+  bg:
+    name: Село Петрино
+    description: '...'
+  en:
+    name: Petrino Village
+    description: '...'

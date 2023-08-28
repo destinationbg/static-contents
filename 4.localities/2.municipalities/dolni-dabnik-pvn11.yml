@@ -1,0 +1,11 @@
+slug: dolni-dabnik
+ekatte: 22407
+code: PVN11
+locale:
+  bg:
+    name: Община Долни Дъбник
+    description: '...'
+  en:
+    name: Dolni Dabnik Municipality
+    description: '...'
+region: danube

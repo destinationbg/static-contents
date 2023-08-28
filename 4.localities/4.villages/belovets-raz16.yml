@@ -1,0 +1,10 @@
+slug: belovets
+ekatte: 03575
+code: RAZ16
+locale:
+  bg:
+    name: Село Беловец
+    description: '...'
+  en:
+    name: Belovets Village
+    description: '...'

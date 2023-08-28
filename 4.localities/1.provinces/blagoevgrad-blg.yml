@@ -1,0 +1,10 @@
+slug: blagoevgrad
+ekatte: 04279
+code: BLG
+locale:
+  bg:
+    name: Област Благоевград
+    description: '...'
+  en:
+    name: Blagoevgrad Province
+    description: '...'

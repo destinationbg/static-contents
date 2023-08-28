@@ -1,0 +1,11 @@
+slug: novi-pazar
+ekatte: 52009
+code: SHU22
+locale:
+  bg:
+    name: Община Нови пазар
+    description: '...'
+  en:
+    name: Novi pazar Municipality
+    description: '...'
+region: varna-black-sea

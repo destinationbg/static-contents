@@ -1,0 +1,10 @@
+slug: pleven
+ekatte: 56722
+code: PVN
+locale:
+  bg:
+    name: Област Плевен
+    description: '...'
+  en:
+    name: Pleven Province
+    description: '...'

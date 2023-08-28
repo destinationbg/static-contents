@@ -1,0 +1,11 @@
+slug: dobrich-selska
+ekatte: 72624
+code: DOB15
+locale:
+  bg:
+    name: Община Добрич-селска
+    description: '...'
+  en:
+    name: Dobrich-selska Municipality
+    description: '...'
+region: varna-black-sea

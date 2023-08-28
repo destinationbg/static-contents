@@ -1,0 +1,11 @@
+slug: pleven
+ekatte: 56722
+code: PVN24
+locale:
+  bg:
+    name: Община Плевен
+    description: '...'
+  en:
+    name: Pleven Municipality
+    description: '...'
+region: danube

@@ -1,0 +1,11 @@
+slug: kaloyanovo
+ekatte: 35523
+code: PDV12
+locale:
+  bg:
+    name: Община Калояново
+    description: '...'
+  en:
+    name: Kaloyanovo Municipality
+    description: '...'
+region: trakia

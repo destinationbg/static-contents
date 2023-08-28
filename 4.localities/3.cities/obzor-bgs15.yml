@@ -1,0 +1,10 @@
+slug: obzor
+ekatte: 53045
+code: BGS15
+locale:
+  bg:
+    name: Град Обзор
+    description: '...'
+  en:
+    name: Obzor City
+    description: '...'

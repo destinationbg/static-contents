@@ -1,0 +1,11 @@
+slug: godech
+ekatte: 15309
+code: SFO09
+locale:
+  bg:
+    name: Община Годеч
+    description: '...'
+  en:
+    name: Godech Municipality
+    description: '...'
+region: sofia

@@ -1,0 +1,10 @@
+slug: bankovets
+ekatte: 02628
+code: TGV02
+locale:
+  bg:
+    name: Село Банковец
+    description: '...'
+  en:
+    name: Bankovets Village
+    description: '...'

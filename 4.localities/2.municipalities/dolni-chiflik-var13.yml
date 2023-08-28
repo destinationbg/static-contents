@@ -1,0 +1,11 @@
+slug: dolni-chiflik
+ekatte: 21912
+code: VAR13
+locale:
+  bg:
+    name: Община Долни чифлик
+    description: '...'
+  en:
+    name: Dolni chiflik Municipality
+    description: '...'
+region: varna-black-sea

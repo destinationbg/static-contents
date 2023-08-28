@@ -1,0 +1,11 @@
+slug: levski
+ekatte: 43236
+code: PVN16
+locale:
+  bg:
+    name: Община Левски
+    description: '...'
+  en:
+    name: Levski Municipality
+    description: '...'
+region: danube

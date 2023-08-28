@@ -1,0 +1,10 @@
+slug: kameno
+ekatte: 35883
+code: BGS08
+locale:
+  bg:
+    name: Град Камено
+    description: '...'
+  en:
+    name: Kameno City
+    description: '...'

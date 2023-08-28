@@ -1,0 +1,11 @@
+slug: kubrat
+ekatte: 40422
+code: RAZ16
+locale:
+  bg:
+    name: Община Кубрат
+    description: '...'
+  en:
+    name: Kubrat Municipality
+    description: '...'
+region: danube

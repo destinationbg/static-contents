@@ -1,0 +1,10 @@
+slug: mogilino
+ekatte: 30380
+code: RSE08
+locale:
+  bg:
+    name: Село Могилино
+    description: '...'
+  en:
+    name: Mogilino Village
+    description: '...'

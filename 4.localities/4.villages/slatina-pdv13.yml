@@ -1,0 +1,10 @@
+slug: slatina
+ekatte: 67235
+code: PDV13
+locale:
+  bg:
+    name: Село Слатина
+    description: '...'
+  en:
+    name: Slatina Village
+    description: '...'

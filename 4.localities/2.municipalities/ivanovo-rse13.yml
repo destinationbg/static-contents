@@ -1,0 +1,11 @@
+slug: ivanovo
+ekatte: 32095
+code: RSE13
+locale:
+  bg:
+    name: Община Иваново
+    description: '...'
+  en:
+    name: Ivanovo Municipality
+    description: '...'
+region: danube

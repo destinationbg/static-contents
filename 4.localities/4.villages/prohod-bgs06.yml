@@ -1,0 +1,10 @@
+slug: prohod
+ekatte: 58712
+code: BGS06
+locale:
+  bg:
+    name: Село Проход
+    description: '...'
+  en:
+    name: Prohod Village
+    description: '...'

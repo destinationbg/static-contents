@@ -1,0 +1,11 @@
+slug: haskovo
+ekatte: 77195
+code: HKV34
+locale:
+  bg:
+    name: Община Хасково
+    description: '...'
+  en:
+    name: Haskovo Municipality
+    description: '...'
+region: trakia

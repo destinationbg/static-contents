@@ -1,0 +1,10 @@
+slug: aytos
+ekatte: 00151
+code: BGS01
+locale:
+  bg:
+    name: Град Айтос
+    description: '...'
+  en:
+    name: Aytos City
+    description: '...'

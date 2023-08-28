@@ -1,0 +1,11 @@
+slug: gulyantsi
+ekatte: 18099
+code: PVN08
+locale:
+  bg:
+    name: Община Гулянци
+    description: '...'
+  en:
+    name: Gulyantsi Municipality
+    description: '...'
+region: danube

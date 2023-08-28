@@ -1,0 +1,11 @@
+slug: dobrich
+ekatte: 72624
+code: DOB28
+locale:
+  bg:
+    name: Община Добрич
+    description: '...'
+  en:
+    name: Dobrich Municipality
+    description: '...'
+region: varna-black-sea

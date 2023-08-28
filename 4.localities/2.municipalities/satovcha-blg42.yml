@@ -1,0 +1,11 @@
+slug: satovcha
+ekatte: 65440
+code: BLG42
+locale:
+  bg:
+    name: Община Сатовча
+    description: '...'
+  en:
+    name: Satovcha Municipality
+    description: '...'
+region: rila-pirin

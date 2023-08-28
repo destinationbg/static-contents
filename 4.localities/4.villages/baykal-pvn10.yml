@@ -1,0 +1,10 @@
+slug: baykal
+ekatte: 02227
+code: PVN10
+locale:
+  bg:
+    name: Село Байкал
+    description: '...'
+  en:
+    name: Baykal Village
+    description: '...'

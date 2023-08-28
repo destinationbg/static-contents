@@ -1,0 +1,11 @@
+slug: pernik
+ekatte: 55871
+code: PER32
+locale:
+  bg:
+    name: Община Перник
+    description: '...'
+  en:
+    name: Pernik Municipality
+    description: '...'
+region: sofia

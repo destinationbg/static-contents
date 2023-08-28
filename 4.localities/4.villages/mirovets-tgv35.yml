@@ -1,0 +1,10 @@
+slug: mirovets
+ekatte: 48338
+code: TGV35
+locale:
+  bg:
+    name: Село Мировец
+    description: '...'
+  en:
+    name: Mirovets Village
+    description: '...'

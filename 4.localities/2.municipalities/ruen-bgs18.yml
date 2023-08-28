@@ -1,0 +1,11 @@
+slug: ruen
+ekatte: 63224
+code: BGS18
+locale:
+  bg:
+    name: Община Руен
+    description: '...'
+  en:
+    name: Ruen Municipality
+    description: '...'
+region: bourgas-black-sea

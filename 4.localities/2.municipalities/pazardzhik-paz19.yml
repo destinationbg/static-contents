@@ -1,0 +1,11 @@
+slug: pazardzhik
+ekatte: 55155
+code: PAZ19
+locale:
+  bg:
+    name: Община Пазарджик
+    description: '...'
+  en:
+    name: Pazardzhik Municipality
+    description: '...'
+region: trakia

@@ -1,0 +1,10 @@
+slug: stanets
+ekatte: 68761
+code: TGV22
+locale:
+  bg:
+    name: Село Станец
+    description: '...'
+  en:
+    name: Stanets Village
+    description: '...'

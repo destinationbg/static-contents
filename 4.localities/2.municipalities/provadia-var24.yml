@@ -1,0 +1,11 @@
+slug: provadia
+ekatte: 58503
+code: VAR24
+locale:
+  bg:
+    name: Община Провадия
+    description: '...'
+  en:
+    name: Provadia Municipality
+    description: '...'
+region: varna-black-sea

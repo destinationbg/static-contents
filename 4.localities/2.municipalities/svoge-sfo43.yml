@@ -1,0 +1,11 @@
+slug: svoge
+ekatte: 65869
+code: SFO43
+locale:
+  bg:
+    name: Община Своге
+    description: '...'
+  en:
+    name: Svoge Municipality
+    description: '...'
+region: sofia

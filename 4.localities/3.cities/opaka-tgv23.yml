@@ -1,0 +1,10 @@
+slug: opaka
+ekatte: 53552
+code: TGV23
+locale:
+  bg:
+    name: Град Опака
+    description: '...'
+  en:
+    name: Opaka City
+    description: '...'

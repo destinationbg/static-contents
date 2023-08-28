@@ -1,0 +1,11 @@
+slug: dolna-mitropolia
+ekatte: 22215
+code: PVN10
+locale:
+  bg:
+    name: Община Долна Митрополия
+    description: '...'
+  en:
+    name: Dolna Mitropolia Municipality
+    description: '...'
+region: danube

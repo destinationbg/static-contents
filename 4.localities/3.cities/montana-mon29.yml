@@ -1,0 +1,10 @@
+slug: montana
+ekatte: 48489
+code: MON29
+locale:
+  bg:
+    name: Град Монтана
+    description: '...'
+  en:
+    name: Montana City
+    description: '...'

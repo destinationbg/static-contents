@@ -1,0 +1,11 @@
+slug: letnitsa
+ekatte: 43476
+code: LOV17
+locale:
+  bg:
+    name: Община Летница
+    description: '...'
+  en:
+    name: Letnitsa Municipality
+    description: '...'
+region: danube

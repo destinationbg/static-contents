@@ -1,0 +1,10 @@
+slug: peshtera
+ekatte: 56280
+code: PER19
+locale:
+  bg:
+    name: Село Пещера
+    description: '...'
+  en:
+    name: Peshtera Village
+    description: '...'

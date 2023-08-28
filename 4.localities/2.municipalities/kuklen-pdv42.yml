@@ -1,0 +1,11 @@
+slug: kuklen
+ekatte: 40467
+code: PDV42
+locale:
+  bg:
+    name: Община Куклен
+    description: '...'
+  en:
+    name: Kuklen Municipality
+    description: '...'
+region: rhodopes

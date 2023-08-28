@@ -1,0 +1,10 @@
+slug: povet
+ekatte: 56928
+code: KRZ16
+locale:
+  bg:
+    name: Село Повет
+    description: '...'
+  en:
+    name: Povet Village
+    description: '...'

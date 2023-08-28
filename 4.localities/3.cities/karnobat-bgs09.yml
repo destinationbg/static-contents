@@ -1,0 +1,10 @@
+slug: karnobat
+ekatte: 36525
+code: BGS09
+locale:
+  bg:
+    name: Град Карнобат
+    description: '...'
+  en:
+    name: Karnobat City
+    description: '...'

@@ -1,0 +1,10 @@
+slug: slatina
+ekatte: 67221
+code: MON02
+locale:
+  bg:
+    name: Село Слатина
+    description: '...'
+  en:
+    name: Slatina Village
+    description: '...'

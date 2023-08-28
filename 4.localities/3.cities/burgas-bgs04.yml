@@ -1,0 +1,10 @@
+slug: burgas
+ekatte: 07079
+code: BGS04
+locale:
+  bg:
+    name: Град Бургас
+    description: '...'
+  en:
+    name: Burgas City
+    description: '...'

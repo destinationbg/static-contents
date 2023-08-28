@@ -1,0 +1,11 @@
+slug: smolyan
+ekatte: 67653
+code: SML31
+locale:
+  bg:
+    name: Община Смолян
+    description: '...'
+  en:
+    name: Smolyan Municipality
+    description: '...'
+region: rhodopes

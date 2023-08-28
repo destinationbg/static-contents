@@ -1,0 +1,11 @@
+slug: chelopech
+ekatte: 80323
+code: SFO58
+locale:
+  bg:
+    name: Община Челопеч
+    description: '...'
+  en:
+    name: Chelopech Municipality
+    description: '...'
+region: valley-of-roses

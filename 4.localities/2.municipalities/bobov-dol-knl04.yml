@@ -1,0 +1,11 @@
+slug: bobov-dol
+ekatte: 04501
+code: KNL04
+locale:
+  bg:
+    name: Община Бобов дол
+    description: '...'
+  en:
+    name: Bobov dol Municipality
+    description: '...'
+region: sofia

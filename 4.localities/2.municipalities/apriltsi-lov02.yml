@@ -1,0 +1,11 @@
+slug: apriltsi
+ekatte: 52218
+code: LOV02
+locale:
+  bg:
+    name: Община Априлци
+    description: '...'
+  en:
+    name: Apriltsi Municipality
+    description: '...'
+region: stara-planina

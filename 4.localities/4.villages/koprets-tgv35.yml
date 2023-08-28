@@ -1,0 +1,10 @@
+slug: koprets
+ekatte: 38501
+code: TGV35
+locale:
+  bg:
+    name: Село Копрец
+    description: '...'
+  en:
+    name: Koprets Village
+    description: '...'

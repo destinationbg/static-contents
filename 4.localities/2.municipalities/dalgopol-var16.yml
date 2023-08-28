@@ -1,0 +1,11 @@
+slug: dalgopol
+ekatte: 24565
+code: VAR16
+locale:
+  bg:
+    name: Община Дългопол
+    description: '...'
+  en:
+    name: Dalgopol Municipality
+    description: '...'
+region: varna-black-sea

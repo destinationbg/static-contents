@@ -1,0 +1,11 @@
+slug: byala-ruse
+ekatte: 07603
+code: RSE04
+locale:
+  bg:
+    name: Община Бяла (обл. Русе)
+    description: '...'
+  en:
+    name: Byala Municipality (Ruse Province)
+    description: '...'
+region: danube

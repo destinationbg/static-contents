@@ -1,0 +1,11 @@
+slug: elhovo
+ekatte: 27382
+code: JAM07
+locale:
+  bg:
+    name: Община Елхово
+    description: '...'
+  en:
+    name: Elhovo Municipality
+    description: '...'
+region: trakia

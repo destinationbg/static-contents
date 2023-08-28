@@ -1,0 +1,10 @@
+slug: varna
+ekatte: 10135
+code: VAR
+locale:
+  bg:
+    name: Област Варна
+    description: '...'
+  en:
+    name: Varna Province
+    description: '...'

@@ -1,0 +1,11 @@
+slug: novo-selo
+ekatte: 52180
+code: VID30
+locale:
+  bg:
+    name: Община Ново село
+    description: '...'
+  en:
+    name: Novo selo Municipality
+    description: '...'
+region: danube

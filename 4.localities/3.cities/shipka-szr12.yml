@@ -1,0 +1,10 @@
+slug: shipka
+ekatte: 83199
+code: SZR12
+locale:
+  bg:
+    name: Град Шипка
+    description: '...'
+  en:
+    name: Shipka City
+    description: '...'

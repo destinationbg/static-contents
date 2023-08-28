@@ -1,0 +1,10 @@
+slug: bosna
+ekatte: 05757
+code: SLS32
+locale:
+  bg:
+    name: Село Босна
+    description: '...'
+  en:
+    name: Bosna Village
+    description: '...'

@@ -1,0 +1,11 @@
+slug: kavarna
+ekatte: 35064
+code: DOB17
+locale:
+  bg:
+    name: Община Каварна
+    description: '...'
+  en:
+    name: Kavarna Municipality
+    description: '...'
+region: varna-black-sea

@@ -1,0 +1,10 @@
+slug: shumen
+ekatte: 83510
+code: SHU30
+locale:
+  bg:
+    name: Град Шумен
+    description: '...'
+  en:
+    name: Shumen City
+    description: '...'

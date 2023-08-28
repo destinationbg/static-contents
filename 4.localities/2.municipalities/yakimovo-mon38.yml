@@ -1,0 +1,11 @@
+slug: yakimovo
+ekatte: 87299
+code: MON38
+locale:
+  bg:
+    name: Община Якимово
+    description: '...'
+  en:
+    name: Yakimovo Municipality
+    description: '...'
+region: danube

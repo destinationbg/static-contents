@@ -1,0 +1,10 @@
+slug: pobeda
+ekatte: 56865
+code: PVN10
+locale:
+  bg:
+    name: Село Победа
+    description: '...'
+  en:
+    name: Pobeda Village
+    description: '...'

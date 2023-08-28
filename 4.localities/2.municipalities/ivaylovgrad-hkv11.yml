@@ -1,0 +1,11 @@
+slug: ivaylovgrad
+ekatte: 32024
+code: HKV11
+locale:
+  bg:
+    name: Община Ивайловград
+    description: '...'
+  en:
+    name: Ivaylovgrad Municipality
+    description: '...'
+region: rhodopes

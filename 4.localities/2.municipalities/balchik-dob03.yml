@@ -1,0 +1,11 @@
+slug: balchik
+ekatte: 02508
+code: DOB03
+locale:
+  bg:
+    name: Община Балчик
+    description: '...'
+  en:
+    name: Balchik Municipality
+    description: '...'
+region: varna-black-sea

@@ -1,0 +1,10 @@
+slug: kosovo
+ekatte: 38799
+code: PDV01
+locale:
+  bg:
+    name: Село Косово
+    description: '...'
+  en:
+    name: Kosovo Village
+    description: '...'

@@ -1,0 +1,11 @@
+slug: aksakovo
+ekatte: 00182
+code: VAR02
+locale:
+  bg:
+    name: Община Аксаково
+    description: '...'
+  en:
+    name: Aksakovo Municipality
+    description: '...'
+region: varna-black-sea

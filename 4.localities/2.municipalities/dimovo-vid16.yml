@@ -1,0 +1,11 @@
+slug: dimovo
+ekatte: 21097
+code: VID16
+locale:
+  bg:
+    name: Община Димово
+    description: '...'
+  en:
+    name: Dimovo Municipality
+    description: '...'
+region: danube

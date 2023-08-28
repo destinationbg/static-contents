@@ -1,0 +1,11 @@
+slug: velingrad
+ekatte: 10450
+code: PAZ08
+locale:
+  bg:
+    name: Община Велинград
+    description: '...'
+  en:
+    name: Velingrad Municipality
+    description: '...'
+region: rhodopes
