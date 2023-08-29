@@ -98,6 +98,7 @@ try:
             yaml.dump(yaml_data, yaml_file, default_flow_style=False,
                       allow_unicode=True, sort_keys=False)
 
-    print("YAML files created successfully for 'Cities' and 'Villages' categories.")
+    print(
+        f"Created YAML files for 'Cities' ({CITIES_FOLDER}) and 'Villages' ({VILLAGES_FOLDER}) based on the EKATTE data.")
 except Exception as e:
     print(f"An error occurred: {str(e)}")
