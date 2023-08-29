@@ -1,10 +1,10 @@
-slug: opanets
+slug: opanets-pleven
 ekatte: '53583'
 code: PVN24
 locale:
   bg:
-    name: Село Опанец
+    name: Село Опанец (общ. Плевен)
     description: '...'
   en:
-    name: Opanets Village
+    name: Opanets Village (Pleven Municipality)
     description: '...'

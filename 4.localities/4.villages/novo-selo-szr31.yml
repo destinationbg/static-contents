@@ -1,10 +1,10 @@
-slug: novo-selo
+slug: novo-stara-zagora
 ekatte: '52252'
 code: SZR31
 locale:
   bg:
-    name: Село Ново село
+    name: Село Ново село (общ. Стара Загора)
     description: '...'
   en:
-    name: Novo selo Village
+    name: Novo selo Village (Stara Zagora Municipality)
     description: '...'

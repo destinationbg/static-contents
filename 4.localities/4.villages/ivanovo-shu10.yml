@@ -1,10 +1,10 @@
-slug: ivanovo
+slug: ivanovo-varbitsa
 ekatte: '32113'
 code: SHU10
 locale:
   bg:
-    name: Село Иваново
+    name: Село Иваново (общ. Върбица)
     description: '...'
   en:
-    name: Ivanovo Village
+    name: Ivanovo Village (Varbitsa Municipality)
     description: '...'

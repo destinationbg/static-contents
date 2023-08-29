@@ -1,10 +1,10 @@
-slug: kriva-bara
+slug: kriva-kozloduy
 ekatte: '39730'
 code: VRC20
 locale:
   bg:
-    name: Село Крива бара
+    name: Село Крива бара (общ. Козлодуй)
     description: '...'
   en:
-    name: Kriva bara Village
+    name: Kriva bara Village (Kozloduy Municipality)
     description: '...'

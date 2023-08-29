@@ -1,10 +1,10 @@
-slug: svoboda
+slug: svoboda-dobrich-selska
 ekatte: '65824'
 code: DOB15
 locale:
   bg:
-    name: Село Свобода
+    name: Село Свобода (общ. Добрич-селска)
     description: '...'
   en:
-    name: Svoboda Village
+    name: Svoboda Village (Dobrich-selska Municipality)
     description: '...'

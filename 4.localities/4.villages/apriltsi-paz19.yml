@@ -1,10 +1,10 @@
-slug: apriltsi
+slug: apriltsi-pazardzhik
 ekatte: '00571'
 code: PAZ19
 locale:
   bg:
-    name: Село Априлци
+    name: Село Априлци (общ. Пазарджик)
     description: '...'
   en:
-    name: Apriltsi Village
+    name: Apriltsi Village (Pazardzhik Municipality)
     description: '...'

@@ -1,10 +1,10 @@
-slug: ivanovtsi
+slug: ivanovtsi-veliko-tarnovo
 ekatte: '32127'
 code: VTR04
 locale:
   bg:
-    name: Село Ивановци
+    name: Село Ивановци (общ. Велико Търново)
     description: '...'
   en:
-    name: Ivanovtsi Village
+    name: Ivanovtsi Village (Veliko Tarnovo Municipality)
     description: '...'

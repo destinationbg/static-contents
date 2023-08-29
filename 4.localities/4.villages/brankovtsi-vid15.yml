@@ -1,10 +1,10 @@
-slug: brankovtsi
+slug: brankovtsi-gramada
 ekatte: '06121'
 code: VID15
 locale:
   bg:
-    name: Село Бранковци
+    name: Село Бранковци (общ. Грамада)
     description: '...'
   en:
-    name: Brankovtsi Village
+    name: Brankovtsi Village (Gramada Municipality)
     description: '...'

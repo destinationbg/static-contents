@@ -1,10 +1,10 @@
-slug: pobeda
+slug: pobeda-dobrich-selska
 ekatte: '21083'
 code: DOB15
 locale:
   bg:
-    name: Село Победа
+    name: Село Победа (общ. Добрич-селска)
     description: '...'
   en:
-    name: Pobeda Village
+    name: Pobeda Village (Dobrich-selska Municipality)
     description: '...'

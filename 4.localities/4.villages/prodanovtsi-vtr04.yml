@@ -1,10 +1,10 @@
-slug: prodanovtsi
+slug: prodanovtsi-veliko-tarnovo
 ekatte: '58520'
 code: VTR04
 locale:
   bg:
-    name: Село Продановци
+    name: Село Продановци (общ. Велико Търново)
     description: '...'
   en:
-    name: Prodanovtsi Village
+    name: Prodanovtsi Village (Veliko Tarnovo Municipality)
     description: '...'

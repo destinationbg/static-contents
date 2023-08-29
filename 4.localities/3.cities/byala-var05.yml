@@ -1,10 +1,10 @@
-slug: byala
+slug: byala-varna
 ekatte: 07598
 code: VAR05
 locale:
   bg:
-    name: Град Бяла
+    name: Град Бяла (обл. Варна)
     description: '...'
   en:
-    name: Byala City
+    name: Byala City (Varna Province)
     description: '...'

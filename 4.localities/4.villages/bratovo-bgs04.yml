@@ -1,10 +1,10 @@
-slug: bratovo
+slug: bratovo-burgas
 ekatte: '06152'
 code: BGS04
 locale:
   bg:
-    name: Село Братово
+    name: Село Братово (общ. Бургас)
     description: '...'
   en:
-    name: Bratovo Village
+    name: Bratovo Village (Burgas Municipality)
     description: '...'

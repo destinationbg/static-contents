@@ -1,10 +1,10 @@
-slug: enevo
+slug: enevo-dobrich-selska
 ekatte: '27468'
 code: DOB15
 locale:
   bg:
-    name: Село Енево
+    name: Село Енево (общ. Добрич-селска)
     description: '...'
   en:
-    name: Enevo Village
+    name: Enevo Village (Dobrich-selska Municipality)
     description: '...'

@@ -1,10 +1,10 @@
-slug: pobeda
+slug: pobeda-dolna-mitropolia
 ekatte: '56865'
 code: PVN10
 locale:
   bg:
-    name: Село Победа
+    name: Село Победа (общ. Долна Митрополия)
     description: '...'
   en:
-    name: Pobeda Village
+    name: Pobeda Village (Dolna Mitropolia Municipality)
     description: '...'

@@ -1,10 +1,10 @@
-slug: izvor
+slug: izvor-burgas
 ekatte: '32367'
 code: BGS04
 locale:
   bg:
-    name: Село Извор
+    name: Село Извор (общ. Бургас)
     description: '...'
   en:
-    name: Izvor Village
+    name: Izvor Village (Burgas Municipality)
     description: '...'

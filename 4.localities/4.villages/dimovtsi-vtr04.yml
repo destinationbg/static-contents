@@ -1,10 +1,10 @@
-slug: dimovtsi
+slug: dimovtsi-veliko-tarnovo
 ekatte: '21110'
 code: VTR04
 locale:
   bg:
-    name: Село Димовци
+    name: Село Димовци (общ. Велико Търново)
     description: '...'
   en:
-    name: Dimovtsi Village
+    name: Dimovtsi Village (Veliko Tarnovo Municipality)
     description: '...'

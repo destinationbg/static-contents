@@ -1,10 +1,10 @@
-slug: botevo
+slug: botevo-vidin
 ekatte: 05832
 code: VID09
 locale:
   bg:
-    name: Село Ботево
+    name: Село Ботево (общ. Видин)
     description: '...'
   en:
-    name: Botevo Village
+    name: Botevo Village (Vidin Municipality)
     description: '...'

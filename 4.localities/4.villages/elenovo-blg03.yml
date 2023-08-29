@@ -1,10 +1,10 @@
-slug: elenovo
+slug: elenovo-blagoevgrad
 ekatte: '27231'
 code: BLG03
 locale:
   bg:
-    name: Село Еленово
+    name: Село Еленово (общ. Благоевград)
     description: '...'
   en:
-    name: Elenovo Village
+    name: Elenovo Village (Blagoevgrad Municipality)
     description: '...'
