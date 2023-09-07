@@ -1,10 +1,10 @@
 slug: parking-available
-locales:
+locale:
   bg:
     name: Наличен паркинг
     description: >-
-      Паркингът е наличен на място или в близост до забележителността.
+      Паркингът е наличен на място или в близост до локацията.
   en:
-    name: Parking available
+    name: Parking Available
     description: >-
-      Parking is available on site or near the landmark.
+      Parking is available on site or near the location.

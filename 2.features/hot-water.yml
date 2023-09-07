@@ -1,0 +1,10 @@
+slug: hot-water
+locale:
+  bg:
+    title: Топла вода
+    description: >-
+      Обектът разполага с топла вода.
+  en:
+    title: Hot Water
+    description: >-
+      The facility has a hot water.

@@ -1,0 +1,10 @@
+slug: marking
+locale:
+  bg:
+    title: Маркировка
+    description: >-
+      Маршрута има обозначена маркировка.
+  en:
+    title: Marking
+    description: >-
+      The route is marked.

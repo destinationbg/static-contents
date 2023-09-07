@@ -1,10 +1,10 @@
 slug: suitable-for-children
-locales:
+locale:
   bg:
     name: Подходящо за деца
     description: >-
-      Забележителността е подходяща за деца.
+      Локацията е подходяща за посещение от деца.
   en:
     name: Suitable for children
     description: >-
-      The landmark is suitable for children.
+      The location is suitable for visiting by children.

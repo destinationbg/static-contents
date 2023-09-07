@@ -1,0 +1,11 @@
+slug: public-transport
+locale:
+  bg:
+    title: Обществен транспорт
+    description: >-
+      Може да се стигне с обществен транспорт, който спира на мястото или в
+      близост до него.
+  en:
+    title: Public Transport
+    description: >-
+      It can be reached by public transport that stops at or near the site.

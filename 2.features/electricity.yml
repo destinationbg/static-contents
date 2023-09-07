@@ -1,0 +1,10 @@
+slug: electricity
+locale:
+  bg:
+    title: Ток
+    description: >-
+      Обектът разполага с ток.
+  en:
+    title: Electricity
+    description: >-
+      The facility has electricity.

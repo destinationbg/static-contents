@@ -1,0 +1,10 @@
+slug: car-access
+locale:
+  bg:
+    title: Достъп с кола
+    description: >-
+      Има изграден асфалтов или земен път за достъп до локацията.
+  en:
+    title: Car Access
+    description: >-
+      There is an asphalt or dirt road for access to the location.

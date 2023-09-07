@@ -1,0 +1,10 @@
+slug: bath
+locale:
+  bg:
+    title: Баня
+    description: >-
+      Обектът разполага с баня.
+  en:
+    title: Bath
+    description: >-
+      The facility has a bathroom.

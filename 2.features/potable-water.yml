@@ -1,0 +1,10 @@
+slug: potable-water
+locale:
+  bg:
+    title: Питейна вода
+    description: >-
+      Налична е вода за пиене от извор или чешма.
+  en:
+    title: Potable Water
+    description: >-
+      Drinking water from a spring or tap is available.
