@@ -1,0 +1,10 @@
+slug: river-nearby
+locale:
+  bg:
+    title: Река наблизо
+    description: >-
+      Локацията се намира в близост до река.
+  en:
+    title: River Nearby
+    description: >-
+      The location is located near a river.
