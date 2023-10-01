@@ -3,8 +3,9 @@ locale:
   bg:
     title: Маса с пейки
     description: >-
-      На мястото или в близост до него са изградени една или няколко пейки.
+      На мястото или в близост до него са изградени една или няколко пейки с
+      маса.
   en:
     title: Table with Benches
     description: >-
-      One or more benches are built on the site or near it.
+      One or more benches with tables are built on the site or near it.
