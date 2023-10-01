@@ -1,0 +1,1 @@
+Established in 1961, the museum is entrusted by the Bulgarian Orthodox Church to the state. It has over 600 artifacts showcasing Bulgaria's diverse heritage. From religious art to manuscripts, it offers profound insights into the country's cultural evolution through integrated thematic exhibitions.

@@ -1,9 +1,3 @@
-**Main Monastery Temple:**
-Monday until Thursday: 06:30 - 19:00<br>
-Friday to Sunday: 06:30 - 19:30
-
----
-
 **For All Museum Exhibitions:**
 
 **Winter-Spring<br>(October 1 - May 31):**

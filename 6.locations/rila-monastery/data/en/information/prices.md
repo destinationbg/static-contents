@@ -1,7 +1,7 @@
 **Overnight Stay:**
 25 BGN per bed per night
 
-**For all museum exhibitions:**
+**For All Museum Exhibitions:**
 combined ticket - 20 BGN
 
 ---

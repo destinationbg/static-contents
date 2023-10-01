@@ -1,7 +1,7 @@
-slug: rila-monastery
+slug: rila-monastery-national-museum
 locale:
   bg:
-    title: Рилски манастир "Св. Иван Рилски"
+    title: Църковно-исторически музей на Рилски манастир
     content:
       description: '/data/bg/content/description.md'
       full: '/data/bg/content/full.md'
@@ -11,7 +11,7 @@ locale:
       visiting: '/data/bg/information/visiting.md'
       work_time: '/data/bg/information/work-time.md'
   en:
-    title: Rila Monastery "Saint John of Rila"
+    title: 'National Church-historical Museum "Rila Monastery"'
     content:
       description: '/data/en/content/description.md'
       full: '/data/en/content/full.md'
@@ -21,8 +21,8 @@ locale:
       visiting: '/data/en/information/visiting.md'
       work_time: '/data/en/information/work-time.md'
 categories:
-  - religious-sites
-  - orthodox-monasteries-and-chapels
+  - culture
+  - museums
 features:
   - car-access
   - parking-available
@@ -33,6 +33,6 @@ locality: rila
 locality_type: city
 locality_prefix: true
 coordinates:
-  latitude: 42.13348
-  longitude: 23.34019
-altitude: 1162
+  latitude: 42.13333
+  longitude: 23.34069
+altitude: 1149
