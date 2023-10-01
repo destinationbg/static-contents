@@ -21,11 +21,14 @@ locale:
       visiting: '/data/en/information/visiting.md'
       work_time: '/data/en/information/work-time.md'
 categories:
-  - religion
+  - religious-sites
   - orthodox-monasteries-and-chapels
 features:
+  - car-access
   - parking-available
+  - river-nearby
   - suitable-for-children
+  - suitable-for-beginners
 locality: rila
 locality_type: city
 locality_prefix: true
